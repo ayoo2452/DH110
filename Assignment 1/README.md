@@ -17,6 +17,8 @@
 | 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
 | 10 | Help and Documentation | Supply users with extra help to complete their tasks |
 
+---
+
 ## **Critique 1: 311LA (App)**
 
 *Table 1: 311LA Heuristic Evaluation*
@@ -36,7 +38,24 @@
 
 
 
-**Critique 2: 211la.org (Website)** 
+---
+
+## Critique 2: 211la.org (Website)
+
+*Table 2: 211LA.org Heuristic Evaluation*
+
+| # | Heuristic | Severity Score | Jump to Explanation|
+| ----------- | ----------- | --- | ---|
+| 1 | Visibility of system status | score | reason | 
+| 2 | Match Between System and the Real World | score | reason | 
+| 3 | User Control and Freedom| score | reason | 
+| 4 | Consistency and Standards | score | reason | 
+| 5 | Error Prevention | score | reason | 
+| 6 | Recognition Rather Than Recall | score | reason | 
+| 7 | Flexibility and Efficiency of Use | score | reason | 
+| 8 | Aesthetic and Minimalist Design | score | reason | 
+| 9 | Help Users Recognize, Diagnose, and Recover From Errors | score | reason | 
+| 10 | Help and Documentation | score | reason | 
 
 
 
