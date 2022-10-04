@@ -2,7 +2,6 @@
 # Assignment 1: Heuristic Evaluation
 
 
-
 ## **Overview of Neilsen Heuristics**
 
 | Number | Heuristic | Description |
