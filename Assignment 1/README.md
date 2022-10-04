@@ -1,4 +1,7 @@
 # DH110 Fall 2022 | Alex Yoo
-### Topic: Sustainable Cities and Communities
+## Assignment 1: Heuristic Evaluation
 
-![screenshot of UN Page](un.png)
+Topic: **Sustainable Cities and Communities** 
+
+Chosen websites/app to critique: **311LA (App) and 211la.org (website)** 
+
