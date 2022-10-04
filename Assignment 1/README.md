@@ -3,5 +3,11 @@
 
 Topic: **Sustainable Cities and Communities** 
 
-Chosen websites/app to critique: **311LA (App) and 211la.org (website)** 
+**Critique 1: 311LA (App)**
+
+
+
+**Critique 2: 211la.org (Website)** 
+
+
 
