@@ -36,6 +36,17 @@
 | 9 | Help Users Recognize, Diagnose, and Recover From Errors | score | reason | 
 | 10 | Help and Documentation | score | reason | 
 
+### C1.1: Visibility of System Status
+### C1.2: Match Between System and the Real World
+### C1.3: User Control and Freedom
+### C1.4: Consistency and Standards
+### C1.5: Error Prevention
+### C1.6: Recognition Rather Than Recall
+### C1.7: Flexibility and Efficiency of Use
+### C1.8: Aesthetic and Minimalist Design
+### C1.9: Help Users Recognize, Diagnose, and Recover From Errors
+### C1.10: Help and Documentation
+
 
 
 ---
