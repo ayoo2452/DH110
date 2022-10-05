@@ -2,7 +2,7 @@
 # Assignment 1: Heuristic Evaluation
 
 **Project Description**
-Just as sustainable communities depend on proper environmental regulation, the daily circumstances of citizens are equally relevant and should be thoroughly accounted for and supported by their respective local governments. In line with this effort are My311LA (website and mobile app) and 211LA.org, both of which serve the greater Los Angeles population by providing information and/or support on local economic, domestic, and navigational resources. My project this quarter is to redesign the My311LA app with easy usability and high accessibility, while also drawing inspiration from 211LA.org site. As a whole, this project reflects the UN's Sustainable Community and Cities goal (SDG #11) as it will serve as a uniting resource to help LA citizens better make use of available resources while highlighting a need for new resources
+Just as sustainable communities depend on proper environmental regulation, the daily circumstances of citizens are equally relevant and should be thoroughly accounted for and supported by their respective local governments. In line with this effort are My311LA (mobile app) and 211LA.org, both of which serve the greater Los Angeles population by providing information and/or support on local economic, domestic, and navigational resources. My project this quarter is to redesign the My311LA app with easy usability and high accessibility, while also drawing inspiration from 211LA.org site. As a whole, this project reflects the UN's Sustainable Community and Cities goal (SDG #11) as it will serve as a uniting resource to help LA citizens better make use of available resources while highlighting a need for new resources
 
 
 ## **Overview of Nielsen Heuristics ([Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/))**
@@ -22,12 +22,16 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 ---
 
-## **Critique 1: My311LA (App + Site)**
+## **Critique 1: MyLA311 (App)**
 
-*Table 1: 311LA Heuristic Evaluation- Overview*
+### About MyLA311
+
+MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
+
+### 311LA Heuristic Evaluation- Overview
 
 | # | Heuristic | Severity Score | 
-| ----------- | ----------- | --- | 
+| --- | --- | --- | 
 | [1](#1.1) | Visibility of system status | score | 
 | [2](#1.2)| Match Between System and the Real World | score |
 | [3](#1.3) | User Control and Freedom| score | 
@@ -39,12 +43,19 @@ Just as sustainable communities depend on proper environmental regulation, the d
 | [9](#1.9) | Help Users Recognize, Diagnose, and Recover From Errors | score | 
 | [10](#1.9) | Help and Documentation | score | 
 
+***Note that severity ratings are on a scale of 1 to 3, with the scheme as follows:***  
+
+1 = Little to no issues, no pressing pain points that prevent user from using the app 
+2 = Minor issues of low priority to fix but occassionally noticeable throughout user journey  
+3 = Major issues, high priority to fix, majorly affects user flow/journey
+
+
 ### C1.1: Visibility of System Status<a id='1.1'></a>
 **Severity rating:**
 
 
 ### C1.2: Match Between System and the Real World<a id='1.2'></a>
-**Severity rating:**
+**Severity rating: 1**
 
 
 ### C1.3: User Control and Freedom<a id='1.3'></a>
