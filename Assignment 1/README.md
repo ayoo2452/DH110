@@ -10,16 +10,16 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 | Number | Heuristic | Description |
 |---|---|---|
-| 1 | Visibility of System Status | Users should always be informed about what is going on and should be given appropriate feedback to their actions |
-| 2 | Match Between System and the Real World | Use concepts and language that are familiar and logical to the user |
-| 3 | User Control and Freedom | Allow users to make mistakes; give them options to undo and redo tasks |
-| 4 | Consistency and Standards | Follow conventions and make sure design is consistent across the platform |
-| 5 | Error Prevention | Get rid of error-prone conditions and provide users with safety nets for high-cost errors |
-| 6 | Recognition Rather Than Recall | Minimize user's memory load by giving them suggestions and help in context |
-| 7 | Flexibility and Efficiency of Use | Provide multiple ways to perform a task to make the platform accessible to all users |
-| 8 | Aesthetic and Minimalist Design | Provide only relevant content and features |
-| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
-| 10 | Help and Documentation | Supply users with extra help to complete their tasks |
+| 1 | Visibility of System Status | Users should be able to identify what step of a process they are on, and should be receiving feedback from their actions in a timely manner, with no surprises along the way— be that about the duration or status of their actions.|
+| 2 | Match Between System and the Real World | User interfaces should incorporate familiar and commonly used representations, and user flow should follow a logical and/or common path. |
+| 3 | User Control and Freedom | As users are prone to making mistakes throughout their user journey, the UI should account for this and make it easy for users to undo/redo their actions. |
+| 4 | Consistency and Standards | Designs, terminology, etc should be consistent and up to industry-standard throughout the site/app|
+| 5 | Error Prevention | Users should be directed away from making errors to the highest extent possible. In unavoidable situations, users should be prevented from making errors (e.g. invalid input) |
+| 6 | Recognition Rather Than Recall | Rather than asking users to provide input, allow them to select/recognize assets— be that visual things like icons, or simply providing suggestions/categories |
+| 7 | Flexibility and Efficiency of Use | Users of all backgrounds and circumstances should be able to navigate services. Similarly, the process should allow for expedited/efficient user flows. |
+| 8 | Aesthetic and Minimalist Design | Functionality takes higher precedence than erroneous design— do not over design for the sake of visuals. |
+| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Identify errors and propose suggestions and/or guidelines to remedy |
+| 10 | Help and Documentation | Provide an instruction manual of sorts so that users can troubleshoot if need be |
 
 ---
 
@@ -28,11 +28,14 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 
 ### About MyLA311
+
+MyLA311, a mobile app produced by the Los Angeles City Hall, is meant to be a portal in which LA citizens can report incidents (e.g traffic, parking, etc) and/or receive assistance by submitting a service request form. On the mobile app, users can submit requests and view socio-economical information relevant to LA citizens. 
+
 | Home Page | City Service Directory | Service Requests |
 | --- | --- | --- |
 | ![myla211Home](https://user-images.githubusercontent.com/101301281/193996961-d6346fb5-64c1-4f9c-92e1-122a2f24b365.png)|![myla211CityServiceDirectory](https://user-images.githubusercontent.com/101301281/193996949-8d8d221d-90b6-4e6b-9945-b7c61d46b015.PNG)| ![myla211ServiceRequest](https://user-images.githubusercontent.com/101301281/193996958-ebd873ba-3233-4f38-ad7d-10a7ccfde138.png)|
 
-MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
+
 
 ### 311LA Heuristic Evaluation- Overview
 
@@ -136,6 +139,8 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 ## Critique 2: 211la.org (Website)
 
 **About [211LA.org](https://211la.org/)** 
+
+In its own words, 211LA is "the hub for community members and community organizations looking for all types of health, human, and social services in Los Angeles County." A major database for resources and events pertaining to social services available in Los Angeles, 211LA is typically utilized by those looking for health and financial services, though the categories that are available extend much further. As it stands, 211LA is more of an information source/search engine, rather than a product utilized with unique features and/or functionalities.
 
 
 <img width="1503" alt="211LAHome" src="https://user-images.githubusercontent.com/101301281/193998196-b138d432-c642-4dae-a547-ac8dcb9c1bf7.png">
