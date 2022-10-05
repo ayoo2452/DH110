@@ -25,7 +25,12 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 ## **Critique 1: MyLA311 (App)**
 
+
+
 ### About MyLA311
+| Home Page | City Service Directory | Service Requests |
+| --- | --- | --- |
+| ![myla211Home](https://user-images.githubusercontent.com/101301281/193996961-d6346fb5-64c1-4f9c-92e1-122a2f24b365.png)|![myla211CityServiceDirectory](https://user-images.githubusercontent.com/101301281/193996949-8d8d221d-90b6-4e6b-9945-b7c61d46b015.PNG)| ![myla211ServiceRequest](https://user-images.githubusercontent.com/101301281/193996958-ebd873ba-3233-4f38-ad7d-10a7ccfde138.png)|
 
 MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 
