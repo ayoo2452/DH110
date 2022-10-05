@@ -45,7 +45,7 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 
 ***Note that severity ratings are on a scale of 1 to 3, with the scheme as follows:***  
 
-1 = Little to no issues, no pressing pain points that prevent user from using the app 
+1 = Little to no issues, no pressing pain points that prevent user from using the app  
 2 = Minor issues of low priority to fix but occassionally noticeable throughout user journey  
 3 = Major issues, high priority to fix, majorly affects user flow/journey
 
