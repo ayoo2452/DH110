@@ -32,16 +32,16 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 
 | # | Heuristic | Severity Score | 
 | --- | --- | --- | 
-| [1](#1.1) | Visibility of system status | score | 
-| [2](#1.2)| Match Between System and the Real World | score |
-| [3](#1.3) | User Control and Freedom| score | 
-| [4](#1.4) | Consistency and Standards | score |
-| [5](#1.5) | Error Prevention | score | 
-| [6](#1.6) | Recognition Rather Than Recall | score |
-| [7](#1.7) | Flexibility and Efficiency of Use | score | 
-| [8](#1.8) | Aesthetic and Minimalist Design | score | 
-| [9](#1.9) | Help Users Recognize, Diagnose, and Recover From Errors | score | 
-| [10](#1.9) | Help and Documentation | score | 
+| [1](#1.1) | Visibility of system status | 3 | 
+| [2](#1.2)| Match Between System and the Real World | 1 |
+| [3](#1.3) | User Control and Freedom| 2 | 
+| [4](#1.4) | Consistency and Standards | 2 |
+| [5](#1.5) | Error Prevention | 3 | 
+| [6](#1.6) | Recognition Rather Than Recall | 1 |
+| [7](#1.7) | Flexibility and Efficiency of Use | 3 | 
+| [8](#1.8) | Aesthetic and Minimalist Design | 2 | 
+| [9](#1.9) | Help Users Recognize, Diagnose, and Recover From Errors | 3 | 
+| [10](#1.9) | Help and Documentation | 3 | 
 
 ***Note that severity ratings are on a scale of 1 to 3, with the scheme as follows:***  
 
