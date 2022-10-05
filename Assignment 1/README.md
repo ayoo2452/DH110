@@ -5,7 +5,7 @@
 Just as sustainable communities depend on proper environmental regulation, the daily circumstances of citizens are equally relevant and should be thoroughly accounted for and supported by their respective local governments. In line with this effort are My311LA (website and mobile app) and 211LA.org, both of which serve the greater Los Angeles population by providing information and/or support on local economic, domestic, and navigational resources. My project this quarter is to redesign the My311LA app with easy usability and high accessibility, while also drawing inspiration from 211LA.org site. As a whole, this project reflects the UN's Sustainable Community and Cities goal (SDG #11) as it will serve as a uniting resource to help LA citizens better make use of available resources while highlighting a need for new resources
 
 
-## **Overview of Neilsen Heuristics**
+## **Overview of Nielsen Heuristics ([Nielsen Norman Group](https://www.nngroup.com/articles/ten-usability-heuristics/))**
 
 | Number | Heuristic | Description |
 |---|---|---|
@@ -22,7 +22,7 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 ---
 
-## **Critique 1: 311LA (App)**
+## **Critique 1: My311LA (App + Site)**
 
 *Table 1: 311LA Heuristic Evaluation- Overview*
 
