@@ -202,13 +202,14 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 - The site is visually appealing and has a more modern, updated design (especially in relation to the MyLA311 app design). However, the design is somewhat mundane and template-like. The design seems to lack branding and doesn’t have a particularly memorable interface and/or visual assets.
 
 ### 2.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='2.9'></a>
-**Severity rating:**
 
+**Severity rating: 1.5**
+
+- As mentioned while evaluating [Heuristic 5](#2.5), there is limited actions that a user can take on this site, and thereby limited number of errors that can be made throughout the user journey. However, the site could benefit from having more feedback if a user is going to be navigated to a different page (more of an issue in mobile site, rather than desktop/iPad)
 
 ### 2.10: Help and Documentation<a id='2.10'></a>
-**Severity rating:**
 
+**Severity rating: 1.5**
 
-
-
-
+- The site should consider making an FAQ page that the users can use to make sense of all the resources/events and other features available on the site
+- Additionally, the navigation bar is relatively accessible, but some first-time users may find it helpful to have descriptions of each section/feature. This could be resolved by adding descriptive text when the user hovers over the feature name.
