@@ -135,7 +135,7 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 
 ## Critique 2: 211la.org (Website)
 
-**About [211LA.org](211la.org)** 
+**About [211LA.org](https://211la.org/)** 
 
 
 <img width="1503" alt="211LAHome" src="https://user-images.githubusercontent.com/101301281/193998196-b138d432-c642-4dae-a547-ac8dcb9c1bf7.png">
