@@ -58,7 +58,7 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 
 - The most action-driven section (requesting a service) has poor visibility throughout. As a trial, I tested the process for submitting a complaint via the "Create a service request" feature on the home page, and was met with an unpleasantly surprising user flow. The most concerning issue (relevant to this heuristic) is that once a user has entered their personal information and the details of their request, there is no confirmation page *prior* to submitting the request. This app does not give users a chance to review their service request before submitting, so users do not have an opportunity to audit their own inputs before submission. Not only does this result in an unpleasant shock factor for the user (I personally had no intention of actually submitting a request, but my supposedly trial request went through before I knew it), but also increases the likelihood of human error in input. Sorting real and/or accurate requests from accidental or erred messages is an additional tax on the backend of things for this app, and a better design here would help mitigate such unnecessary expenditure of effort.
 
-### **1.2: Match Between System and the Real World**
+### **1.2: Match Between System and the Real World**<a id='1.2'></a>
 
 **Severity rating: 1**
 
@@ -66,14 +66,14 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 - The most pressing critique under this heuristic is that the option “City Info” (found upon expanding the hamburger menu) is accompanied by an icon comprised of what looks like a chat box, but that icon actually leads users to a city map.
     - *Recommendation: Replace the term “City Info” with “City Map”, and exchange the chat box icon for a navigation pin*
 
-### **1.3: User Control and Freedom**
+### **1.3: User Control and Freedom**<a id='1.3'></a>
 
 **Severity rating: 2**
 
 - Aside from the “Create Service Request” module, all the other features on MyLA311 do not have a back arrow that allows users to return to the menu/homepage. Rather, users have to click on the “MyLA311” icon on the top left corner of the screen, or open the hamburger menu to click the home icon.
 - Users who are navigating through the “Create Service Request” do have the option to cancel their service request on the initial complaint page, but— as highlighted in my above evaluation of Heuristic #1— users are not given the option to review (or cancel) their input after hitting the submit button.
 
-### **1.4: Consistency and Standards**
+### **1.4: Consistency and Standards**<a id='1.4'></a>
 
 **Severity rating: 2**
 
@@ -81,7 +81,7 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 - Additionally, the “Create Service Request” form requires users to fill out their residence address. The format of inputting one’s address is a bit unconventional in that users have to input the number of their home separate from their street. Furthermore, the form provides two dropdown menus for unfamiliar options: “Direction” and “Suffix”, which ask for the user’s cardinal directions and street suffix (e.g. “Blvd”, “Ave”, etc).
     - For example, if my address was “32 Peppermint Blvd”, I would have to input “32” in one box, then “Peppermint” in another, and then find “Blvd” in the Suffix box. As for the “Direction” option, this is not required, but may be confusing to users who aren’t used to specifying which cardinal direction their residence is.
 
-### **1.5: Error Prevention**
+### **1.5: Error Prevention**<a id='1.5'></a>
 
 **Severity rating: 3**
 
@@ -90,13 +90,13 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 - Another area of concern is the Contact Info section of submitting a request. Though the initial page annotates what information belongs where (ex. “Email” is written in the first box), these annotations go away once users start typing in those boxes. If a user didn’t read these annotations and just started randomly inputting information (say, wrote the first name in the top box, last name in the second, and their email in the third), the system would error, but the user would have to erase at least one of their inputs to verify what box is for what information.
 - And as mentioned previously in [Heuristic 1](#1.1), users are not given a confirmation/review page prior to submitting their request. Removing the ability to review the requests can be detrimental to users, developers, and those who have to follow up on all the requested services. Users may not see their problem resolved due to a mistaken input, developers may have to account for more ways to filter erroneous/mistyped inputs, and local authorities may waste resources on looking into incorrectly cited reports.
 
-### **1.6: Recognition Rather Than Recall**
+### **1.6: Recognition Rather Than Recall**<a id='1.6'></a>
 
 **Severity rating: 1**
 
 - MyLA311 typically makes use of icons and visual representations where it can, promoting recognition. However, it could improve further by offering categories that users can use to search for services. As it stands now, the search bar prompts uses to search by entering keywords, rather than selecting keywords— making this difficult for first-time users who just want to browse, or other users who can’t quite recall what kinds of services MyLA311 even offers.
 
-### **1.7: Flexibility and Efficiency of Use**
+### **1.7: Flexibility and Efficiency of Use**<a id='1.7'></a>
 
 **Severity rating: 3**
 
@@ -105,7 +105,7 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
     - It does appears that the app has already done so for Spanish, by writing Español— this should be extended to the other languages
     - Additionally, a more flexible design would include many more languages than just the 6 options here, especially given Los Angeles’s diversity.
 
-### **1.8: Aesthetic and Minimalist Design**
+### **1.8: Aesthetic and Minimalist Design**<a id='1.8'></a>
 
 **Severity rating: 2**
 
@@ -113,13 +113,13 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 - Additionally, the app’s visual assets are lacking in terms of quality and layout— certain icons (such as the home icon in the hamburger menu and the search icon/magnifier in the City Service Directory) are grainy in appearance.
 - In general, the app has a minimal design that makes a dull impression on the user and could make better use of information hierarchy, especially in their already overwhelming City Service Directory.
 
-### **1.9: Help Users Recognize, Diagnose, and Recover From Errors**
+### **1.9: Help Users Recognize, Diagnose, and Recover From Errors**<a id='1.9'></a>
 
 **Severity rating: 3**
 
 - There is little error recovery feedback from users, and there are no pages that offer an FAQ or quick links to assistance. This is particularly disappointing in the Create Service Request user flow, as there is limited information on what exactly each service does or to what extent information should be provided, so users are more prone to making errors.
 
-### **1.10: Help and Documentation**
+### **1.10: Help and Documentation**<a id='1.10'></a>
 
 **Severity rating: 3**
 
