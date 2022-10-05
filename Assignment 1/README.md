@@ -24,20 +24,20 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 ## **Critique 1: 311LA (App)**
 
-*Table 1: 311LA Heuristic Evaluation*
+*Table 1: 311LA Heuristic Evaluation- Overview*
 
-| # | Heuristic | Severity Score | Jump to Explanation|
-| ----------- | ----------- | --- | ---|
-| 1 | Visibility of system status | score | [1](#1.1) | 
-| 2 | Match Between System and the Real World | score | reason | 
-| 3 | User Control and Freedom| score | reason | 
-| 4 | Consistency and Standards | score | reason | 
-| 5 | Error Prevention | score | reason | 
-| 6 | Recognition Rather Than Recall | score | reason | 
-| 7 | Flexibility and Efficiency of Use | score | reason | 
-| 8 | Aesthetic and Minimalist Design | score | reason | 
-| 9 | Help Users Recognize, Diagnose, and Recover From Errors | score | reason | 
-| 10 | Help and Documentation | score | reason | 
+| # | Heuristic | Severity Score | 
+| ----------- | ----------- | --- | 
+| [1](#1.1) | Visibility of system status | score | 
+| [2](#1.2)| Match Between System and the Real World | score |
+| [3](#1.3) | User Control and Freedom| score | 
+| [4](#1.4) | Consistency and Standards | score |
+| [5](#1.5) | Error Prevention | score | 
+| [6](#1.6) | Recognition Rather Than Recall | score |
+| [7](#1.7) | Flexibility and Efficiency of Use | score | 
+| [8](#1.8) | Aesthetic and Minimalist Design | score | 
+| [9](#1.9) | Help Users Recognize, Diagnose, and Recover From Errors | score | 
+| [10](#1.9) | Help and Documentation | score | 
 
 ### C1.1: Visibility of System Status<a id='1.1'></a>
 **Severity rating:**
@@ -88,18 +88,18 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 *Table 2: 211LA.org Heuristic Evaluation*
 
-| # | Heuristic | Severity Score | Jump to Explanation|
-| ----------- | ----------- | --- | ---|
-| 1 | Visibility of system status | score | reason | 
-| 2 | Match Between System and the Real World | score | reason | 
-| 3 | User Control and Freedom| score | reason | 
-| 4 | Consistency and Standards | score | reason | 
-| 5 | Error Prevention | score | reason | 
-| 6 | Recognition Rather Than Recall | score | reason | 
-| 7 | Flexibility and Efficiency of Use | score | reason | 
-| 8 | Aesthetic and Minimalist Design | score | reason | 
-| 9 | Help Users Recognize, Diagnose, and Recover From Errors | score | reason | 
-| 10 | Help and Documentation | score | reason | 
+| # | Heuristic | Severity Score | 
+| ----------- | ----------- | --- | 
+| [1](#2.1) | Visibility of system status | score | 
+| [2](#2.2)| Match Between System and the Real World | score |
+| [3](#2.3) | User Control and Freedom| score | 
+| [4](#2.4) | Consistency and Standards | score |
+| [5](#2.5) | Error Prevention | score | 
+| [6](#2.6) | Recognition Rather Than Recall | score |
+| [7](#2.7) | Flexibility and Efficiency of Use | score | 
+| [8](#2.8) | Aesthetic and Minimalist Design | score | 
+| [9](#2.9) | Help Users Recognize, Diagnose, and Recover From Errors | score | 
+| [10](#2.9) | Help and Documentation | score | 
 
 ### C2.1: Visibility of System Status<a id='2.1'></a>
 **Severity rating:**
