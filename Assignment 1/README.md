@@ -1,6 +1,9 @@
 ## DH110 Fall 2022 | Alex Yoo | Topic: Sustainable Cities and Communities
 # Assignment 1: Heuristic Evaluation
 
+**Project Description**
+Just as sustainable communities depend on proper environmental regulation, the daily circumstances of citizens are equally relevant and should be thoroughly accounted for and supported by their respective local governments. In line with this effort are My311LA (website and mobile app) and 211LA.org, both of which serve the greater Los Angeles population by providing information and/or support on local economic, domestic, and navigational resources. My project this quarter is to redesign the My311LA app with easy usability and high accessibility, while also drawing inspiration from 211LA.org site. As a whole, this project reflects the UN's Sustainable Community and Cities goal (SDG #11) as it will serve as a uniting resource to help LA citizens better make use of available resources while highlighting a need for new resources
+
 
 ## **Overview of Neilsen Heuristics**
 
@@ -25,7 +28,7 @@
 
 | # | Heuristic | Severity Score | Jump to Explanation|
 | ----------- | ----------- | --- | ---|
-| 1 | Visibility of system status | score | reason | 
+| 1 | Visibility of system status | score | [1](#1.1) | 
 | 2 | Match Between System and the Real World | score | reason | 
 | 3 | User Control and Freedom| score | reason | 
 | 4 | Consistency and Standards | score | reason | 
@@ -36,16 +39,46 @@
 | 9 | Help Users Recognize, Diagnose, and Recover From Errors | score | reason | 
 | 10 | Help and Documentation | score | reason | 
 
-### C1.1: Visibility of System Status
-### C1.2: Match Between System and the Real World
-### C1.3: User Control and Freedom
-### C1.4: Consistency and Standards
-### C1.5: Error Prevention
-### C1.6: Recognition Rather Than Recall
-### C1.7: Flexibility and Efficiency of Use
-### C1.8: Aesthetic and Minimalist Design
-### C1.9: Help Users Recognize, Diagnose, and Recover From Errors
-### C1.10: Help and Documentation
+### C1.1: Visibility of System Status<a id='1.1'></a>
+**Severity rating:**
+
+
+### C1.2: Match Between System and the Real World<a id='1.2'></a>
+**Severity rating:**
+
+
+### C1.3: User Control and Freedom<a id='1.3'></a>
+**Severity rating:**
+
+
+### C1.4: Consistency and Standards<a id='1.4'></a>
+**Severity rating:**
+
+
+### C1.5: Error Prevention<a id='1.5'></a>
+**Severity rating:**
+
+
+### C1.6: Recognition Rather Than Recall<a id='1.6'></a>
+**Severity rating:**
+
+
+### C1.7: Flexibility and Efficiency of Use<a id='1.7'></a>
+**Severity rating:**
+
+
+### C1.8: Aesthetic and Minimalist Design<a id='1.8'></a>
+**Severity rating:**
+
+
+### C1.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='1.9'></a>
+**Severity rating:**
+
+
+### C1.10: Help and Documentation<a id='1.10'></a>
+**Severity rating:**
+
+
 
 
 
@@ -68,16 +101,46 @@
 | 9 | Help Users Recognize, Diagnose, and Recover From Errors | score | reason | 
 | 10 | Help and Documentation | score | reason | 
 
-### C1.1: Visibility of System Status
-### C1.2: Match Between System and the Real World
-### C1.3: User Control and Freedom
-### C1.4: Consistency and Standards
-### C1.5: Error Prevention
-### C1.6: Recognition Rather Than Recall
-### C1.7: Flexibility and Efficiency of Use
-### C1.8: Aesthetic and Minimalist Design
-### C1.9: Help Users Recognize, Diagnose, and Recover From Errors
-### C1.10: Help and Documentation
+### C2.1: Visibility of System Status<a id='2.1'></a>
+**Severity rating:**
+
+
+### C2.2: Match Between System and the Real World<a id='2.2'></a>
+**Severity rating:**
+
+
+### C2.3: User Control and Freedom<a id='2.3'></a>
+**Severity rating:**
+
+
+### C2.4: Consistency and Standards<a id='2.4'></a>
+**Severity rating:**
+
+
+### C2.5: Error Prevention<a id='2.5'></a>
+**Severity rating:**
+
+
+### C2.6: Recognition Rather Than Recall<a id='2.6'></a>
+**Severity rating:**
+
+
+### C2.7: Flexibility and Efficiency of Use<a id='2.7'></a>
+**Severity rating:**
+
+
+### C2.8: Aesthetic and Minimalist Design<a id='2.8'></a>
+**Severity rating:**
+
+
+### C2.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='2.9'></a>
+**Severity rating:**
+
+
+### C2.10: Help and Documentation<a id='2.10'></a>
+**Severity rating:**
+
+
 
 
 
