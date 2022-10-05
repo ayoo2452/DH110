@@ -181,17 +181,18 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 - Unlike the other interface I critiqued in this assignment, there are minimal actions that users can take when navigating the [211LA.org](http://211LA.org) website. Again, this is largely because the users do not have information to input, as 211LA.org is mainly a database meant to be searched within, rather than manipulated or added to.
 - With this in mind, there are not really many areas where this site needs to improve in terms of error prevention. Given the relatively clear layout of the navigation bar and the ability to go back and forth between objects, there is sufficient design in place to guide users in the case of accidentally shifting between pages.
 
-### 2.6: Recognition Rather Than Recall<a id='2.6'></a>
-**Severity rating:**
-
-
 ### 2.7: Flexibility and Efficiency of Use<a id='2.7'></a>
-**Severity rating:**
 
+**Severity rating: 2**
+
+- The site makes use of information hierarchy to display resource categories, rather than promoting the groups that provide them. This allows users to quickly glance at a logged resource and understand immediately what kind of service they provide (or are likely to provide)
+- The site could also benefit from providing time/availability as an additional filter when browsing resources and/or events. This would be extremely beneficial to people who are looking to receive certain services at certain hours of the day (ex. working parents who need to narrow down the resources based on when they are available).
 
 ### 2.8: Aesthetic and Minimalist Design<a id='2.8'></a>
-**Severity rating:**
 
+**Severity rating: 1.5**
+
+- The site is visually appealing and has a more modern, updated design (especially in relation to the MyLA311 app design). However, the design is somewhat mundane and template-like. The design seems to lack branding and doesn’t have a particularly memorable interface and/or visual assets.
 
 ### 2.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='2.9'></a>
 **Severity rating:**
