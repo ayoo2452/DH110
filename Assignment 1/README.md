@@ -50,44 +50,50 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 3 = Major issues, high priority to fix, majorly affects user flow/journey
 
 
-### C1.1: Visibility of System Status<a id='1.1'></a>
-**Severity rating:**
+### 1.1: Visibility of System Status<a id='1.1'></a>
+**Severity rating: 3**
+- MyLA311 allows users to view the city's available services through a section labeled "City Service Directory", in which the various services that users may interact with are listed, alongside brief explanations of that respective service. While this feature is likely meant as an avenue for users to browse for services, there is little organization and no means to filter the extensive list of services. Additionally, this list does not load in its entirety—instead, users have to scroll up and wait for the page to continue loading before it displays more options. Despite there being seemingly many services on this list, the app does NOT say how many service titles the user has seen, nor how many are left to view. Similarly, there are also not any page numbers to show where the user is in their browsing process. From the perspective of system status visability, this browsing format lacks transparency and is a major user pain point that should take high priority to address.
+
+*Other critiques on this particular feature (City Service Directory) will also be made as I evaluate Heuristic 7 (flexibility and efficiency of use) [below](#1.7).
+
+- The most action-driven section (requesting a service) has poor visibility throughout. As a trial, I tested the process for submitting a complaint via the "Create a service request" feature on the home page, and was met with an unpleasantly surprising user flow. For 
 
 
-### C1.2: Match Between System and the Real World<a id='1.2'></a>
+
+### 1.2: Match Between System and the Real World<a id='1.2'></a>
+**Severity rating: 1.5**
+
+
+### 1.3: User Control and Freedom<a id='1.3'></a>
+**Severity rating: 2**
+
+
+### 1.4: Consistency and Standards<a id='1.4'></a>
 **Severity rating: 1**
 
 
-### C1.3: User Control and Freedom<a id='1.3'></a>
-**Severity rating:**
+### 1.5: Error Prevention<a id='1.5'></a>
+**Severity rating: 3**
 
 
-### C1.4: Consistency and Standards<a id='1.4'></a>
-**Severity rating:**
+### 1.6: Recognition Rather Than Recall<a id='1.6'></a>
+**Severity rating: 1**
 
 
-### C1.5: Error Prevention<a id='1.5'></a>
-**Severity rating:**
+### 1.7: Flexibility and Efficiency of Use<a id='1.7'></a>
+**Severity rating: 3**
 
 
-### C1.6: Recognition Rather Than Recall<a id='1.6'></a>
-**Severity rating:**
+### 1.8: Aesthetic and Minimalist Design<a id='1.8'></a>
+**Severity rating: 2**
 
 
-### C1.7: Flexibility and Efficiency of Use<a id='1.7'></a>
-**Severity rating:**
+### 1.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='1.9'></a>
+**Severity rating: 3**
 
 
-### C1.8: Aesthetic and Minimalist Design<a id='1.8'></a>
-**Severity rating:**
-
-
-### C1.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='1.9'></a>
-**Severity rating:**
-
-
-### C1.10: Help and Documentation<a id='1.10'></a>
-**Severity rating:**
+### 1.10: Help and Documentation<a id='1.10'></a>
+**Severity rating: 3**
 
 
 
@@ -112,43 +118,43 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 | [9](#2.9) | Help Users Recognize, Diagnose, and Recover From Errors | score | 
 | [10](#2.9) | Help and Documentation | score | 
 
-### C2.1: Visibility of System Status<a id='2.1'></a>
+### 2.1: Visibility of System Status<a id='2.1'></a>
 **Severity rating:**
 
 
-### C2.2: Match Between System and the Real World<a id='2.2'></a>
+### 2.2: Match Between System and the Real World<a id='2.2'></a>
 **Severity rating:**
 
 
-### C2.3: User Control and Freedom<a id='2.3'></a>
+### 2.3: User Control and Freedom<a id='2.3'></a>
 **Severity rating:**
 
 
-### C2.4: Consistency and Standards<a id='2.4'></a>
+### 2.4: Consistency and Standards<a id='2.4'></a>
 **Severity rating:**
 
 
-### C2.5: Error Prevention<a id='2.5'></a>
+### 2.5: Error Prevention<a id='2.5'></a>
 **Severity rating:**
 
 
-### C2.6: Recognition Rather Than Recall<a id='2.6'></a>
+### 2.6: Recognition Rather Than Recall<a id='2.6'></a>
 **Severity rating:**
 
 
-### C2.7: Flexibility and Efficiency of Use<a id='2.7'></a>
+### 2.7: Flexibility and Efficiency of Use<a id='2.7'></a>
 **Severity rating:**
 
 
-### C2.8: Aesthetic and Minimalist Design<a id='2.8'></a>
+### 2.8: Aesthetic and Minimalist Design<a id='2.8'></a>
 **Severity rating:**
 
 
-### C2.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='2.9'></a>
+### 2.9: Help Users Recognize, Diagnose, and Recover From Errors<a id='2.9'></a>
 **Severity rating:**
 
 
-### C2.10: Help and Documentation<a id='2.10'></a>
+### 2.10: Help and Documentation<a id='2.10'></a>
 **Severity rating:**
 
 
