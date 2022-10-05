@@ -146,24 +146,40 @@ MyLA311, a mobile app produced by the Los Angeles City Hall, is a _____.
 | [10](#2.9) | Help and Documentation | score | 
 
 ### 2.1: Visibility of System Status<a id='2.1'></a>
-**Severity rating:**
 
+**Severity rating: 1**
+
+- Site allows users to easily navigate back and forth between pages, modules, and features.
+- While there are not many “fancy” features that really heighten the visibility of the system status (that is, the users’ current place/progress on the site), this is largely accounted for by the fact that this site is mainly a large database for LA residents to see and gain access to supporting resources nearby. Rather than using this site to accomplish a task (e.g. scheduling an appointment), [211LA.org](http://211LA.org) serves more as a search engine. As such there’s less to criticize on the system status and its transparency to users throughout their navigational flow.
 
 ### 2.2: Match Between System and the Real World<a id='2.2'></a>
-**Severity rating:**
 
+**Severity rating: 1**
+
+- Website uses descriptive titles in their resource lists, and does not use unnecessary jargon. They also avoid using acronyms so that users can get a clear idea of what a given organization is offering and/or what service is being provided.
+- The site also makes great use of map-views that users can access when scanning through results on certain resources. This makes it easy for users to understand what resources are available to them nearby, and provides a sense of familiarity with the area that they might be able to receive assistance.
 
 ### 2.3: User Control and Freedom<a id='2.3'></a>
-**Severity rating:**
 
+**Severity rating: 1.5**
+
+- “Return to results” button available upon clicking on a resource page.
+- Navigation is also relatively clear and accessible, but may cause users frustration as it is not a “sticky menu”— one has to scroll all the way to the top of the site in order to access the menu, should they want to navigate away from their current page.
 
 ### 2.4: Consistency and Standards<a id='2.4'></a>
-**Severity rating:**
 
+**Severity rating: 1**
+
+- The site does a good job of sticking to basic terminology and for providing a mundane but straightforward user flow.
+- Navigation is predictable and has little to no areas of concern/room for misinterpretation.
+- There does appear to be more visuals when searching by “events” rather than “resources”. While this may help distinguish the two search categories, it also may appear confusing to new users who aren’t used to seeing the many icons used in the “events” search log/results.
 
 ### 2.5: Error Prevention<a id='2.5'></a>
-**Severity rating:**
 
+**Severity rating: 1**
+
+- Unlike the other interface I critiqued in this assignment, there are minimal actions that users can take when navigating the [211LA.org](http://211LA.org) website. Again, this is largely because the users do not have information to input, as 211LA.org is mainly a database meant to be searched within, rather than manipulated or added to.
+- With this in mind, there are not really many areas where this site needs to improve in terms of error prevention. Given the relatively clear layout of the navigation bar and the ability to go back and forth between objects, there is sufficient design in place to guide users in the case of accidentally shifting between pages.
 
 ### 2.6: Recognition Rather Than Recall<a id='2.6'></a>
 **Severity rating:**
