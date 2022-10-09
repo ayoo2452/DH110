@@ -1,7 +1,7 @@
 ## DH110| Alex Yoo, Fall 2022
 # Assignment 2: Pilot UT 
 
-### Step 0: Introduction**
+### Step 0: Introduction
 In the planning, you will have an introduction indicating the intention of UT and the methods.
 
 Introduction with the name of the web/app you test and what the web/app is about. 
