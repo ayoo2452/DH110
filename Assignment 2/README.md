@@ -11,8 +11,7 @@ Describe the setting(where, portable minimalistic lab), equipment(computer, soft
 Report that it is a pilot test (in order to test the setting and the materials).
 Describe the process (ex. Background questions, pretest, posttest) and what was measured (ex. Ease of use)
 
-### Step 1: Online Survey
-
+### Step 1: Access online survey [here](https://forms.gle/NiwNYUump8sFi9YE9)
 
 ### Step 2: Video
 
