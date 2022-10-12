@@ -2,7 +2,6 @@
 # Assignment 2: Pilot UT 
 
 ## Introduction
-In the planning, you will have an introduction indicating the intention of UT and the methods.
 
 ### About MyLA311
 MyLA311 is a mobile app (available on Apple App Store and Google PlayStore) created by the City of LA to help manage civil service requests. While the app primarily revolves around users being able to submit service requests (e.g. request grafitti removal, illegal parking, etc), the app also functions as a hub of information. For instance,users can be redirected to sites like LADWP and HCIDLA, on which users can pay utility and housing bills. Note that this app is targeted towards users who are based in Los Angeles, as the city services that users may request only range over the Los Angeles area.
@@ -15,29 +14,37 @@ Amongst the three aforementioned heuristics, the biggest issue that I found whil
 
 The three areas of concern are a part of the Neilsen Norman group's list of heuristics that are evaluated in user experience design. For more information on these heuristics, please see the [Neilsen Norman group's site](https://www.nngroup.com/articles/ten-usability-heuristics/). For a deeper read on my past review on MyLA311's user experience, with these heuristics as a basis, please visit my [DH 110 Assignment 1 readme file](https://github.com/ayoo2452/DH110/tree/main/Assignment%201)
 
-O
+### Methodology
 
+This usability test was actually a pilot usability test. The purpose of this particular trial was to get a sense of the overall structure (e.g. survey, tasks, questions, etc) of the test, as well as to test the setting and materials. 
 
-### Process 
+**Setting:** The pilot UT took place at a home office, which was a large open room with a long table (where my participant and I sat). The participant was recorded via Zoom session on a 2021 MacBook Pro (M1 Pro chip), and this same laptop was used by the participant to fill out the online survey. Additionally, the participant used an iPhone XR to interact with the tested app (MyLA311- Version 3.51). Session recorded: Oct. 9, 2022.
 
+**Process:** The usability testing was guided largely by the resources supplied by Professor Cho. Most questions use the template questions provided in class, with specifications made to tailor the form to my specific app (MyLA311). The participant responded to all survey questions via Google Forms, and entered their information using the laptop described in the above Setting section. 
 
-Introduction with the name of the web/app you test and what the web/app is about. 
-Report the rationale behind of UT with the list of the usability issues you found from your heuristic reviews
-Indicate that the purpose of the usability testing aims to find out how to improve the web/app from the user's perspective.
-Describe the setting(where, portable minimalistic lab), equipment(computer, software)
-Report that it is a pilot test (in order to test the setting and the materials).
-Describe the process (ex. Background questions, pretest, posttest) and what was measured (ex. Ease of use)
+The form itself was comprised of the following section
+- Introduction (to the test + what we're doing)
+- Informed consent
+- Background questions (purely on their experience with the app, no personal questions here)
+- Pre-test questions
+- Three tasks (to complete on the MyLA311 app, not within the survey)
+- Post-test questionnaire
+- SUS questions
+- Product satification questions 
+- Demographics
+
+While the first half of the survey was more introductory, the second half aimed to measure the user's familiarity with the product and to get a sense of their perceived ease of use for MyLA311. Throughout the three tasks, I asked the participant to articulate aloud some of their thoughts to better understand their process and justifications for their navigation. Both these tasks and the rest of the questions in the survey served to measure the user's ease of use. 
 
 ## Survey
 Access online survey [here](https://forms.gle/NiwNYUump8sFi9YE9)
-
-*Note: I wasn't able to make a copy of the form that was attached in the assignment for some reason, so I created my own form closely resembling Professor Cho's form. I enabled both Professor Cho and our TA Alex to be editors on this form, so they should be able to access the answers, as well as information on the time/history of the form to double check dates, through the above link. As you should see, the form was submitted on Oct. 9, 2022.*
 
 ## Video
 
 Access the recording [here](https://drive.google.com/file/d/1MSoS9mpKJzNxd-9o6Z4jZk844Q1RT4NR/view?usp=sharing). *Note that only UCLA email addresses will be able to access the Drive.*
 
-
 ## Reflection
 
+I personally found this experience to be extremely insightful, both as a researcher and as a student trying to learn more about the user experience design process. As a researcher, this pilot UT helped me gain a sense of where the app stands to certain users. In this case, my participant was a young student who has high tech-proficiency. Even to them, they had difficulty accomplishing some of the tasks— in particular, the task in which I asked participants to 
+find the map of the city on the app. This stressed the need for better iconization, as well as better documentation. Additionally, this study confirmed the app's need to improve search and browse functionalities, particularly on the City Services Directory. 
 
+As a student, this made me realize how difficult it is to pose neutral, guiding questions to participants as they navigate their tasks. For example, even asking questions like "why___" can put a participant on edge, be it because of emotions or additional cognitive load to answer. Additionally, it's almost frustrating to not be able to help or interfere when they're clearly struggling. I was the participant during our in-class mock UT, so seeing the flipside of things is extremely insightful and shows me many areas where I can improve as an aspiring UX researcher.
