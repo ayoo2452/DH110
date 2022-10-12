@@ -3,6 +3,10 @@
 
 ## Introduction
 
+|  |  |  |
+| --- | --- | --- |
+| ![myla211Home](https://user-images.githubusercontent.com/101301281/193996961-d6346fb5-64c1-4f9c-92e1-122a2f24b365.png)|![myla211CityServiceDirectory](https://user-images.githubusercontent.com/101301281/193996949-8d8d221d-90b6-4e6b-9945-b7c61d46b015.PNG)| ![myla211ServiceRequest](https://user-images.githubusercontent.com/101301281/193996958-ebd873ba-3233-4f38-ad7d-10a7ccfde138.png)|
+
 ### About MyLA311
 MyLA311 is a mobile app (available on Apple App Store and Google PlayStore) created by the City of LA to help manage civil service requests. While the app primarily revolves around users being able to submit service requests (e.g. request grafitti removal, illegal parking, etc), the app also functions as a hub of information. For instance,users can be redirected to sites like LADWP and HCIDLA, on which users can pay utility and housing bills. Note that this app is targeted towards users who are based in Los Angeles, as the city services that users may request only range over the Los Angeles area.
 
