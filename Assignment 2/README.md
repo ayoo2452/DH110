@@ -4,6 +4,18 @@
 ## Introduction
 In the planning, you will have an introduction indicating the intention of UT and the methods.
 
+### About MyLA311
+MyLA311 is a mobile app (available on Apple App Store and Google PlayStore) created by the City of LA to help manage civil service requests. While the app primarily revolves around users being able to submit service requests (e.g. request grafitti removal, illegal parking, etc), the app also functions as a hub of information. For instance,users can be redirected to sites like LADWP and HCIDLA, on which users can pay utility and housing bills. Note that this app is targeted towards users who are based in Los Angeles, as the city services that users may request only range over the Los Angeles area.
+
+### Purpose of usability testing 
+
+The purpose of usability testing for MyLA311 is so that we can improve the app's overall user experience to better expedite the ease of browsing and submitting service requests. MyLA311 is an app that has the potential to help improve the quality of life for many LA citizens, and usability testing this app will help us make adjustments in the right directions so that we can better mitigate the local concerns that MyLA311 reports. In particular, this usability testing will give us a better insight on the following usability issues that we identified in an early study of the MyLA311 website:
+- 
+
+
+### Process 
+
+
 Introduction with the name of the web/app you test and what the web/app is about. 
 Report the rationale behind of UT with the list of the usability issues you found from your heuristic reviews
 Indicate that the purpose of the usability testing aims to find out how to improve the web/app from the user's perspective.
