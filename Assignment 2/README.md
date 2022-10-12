@@ -9,8 +9,13 @@ MyLA311 is a mobile app (available on Apple App Store and Google PlayStore) crea
 
 ### Purpose of usability testing 
 
-The purpose of usability testing for MyLA311 is so that we can improve the app's overall user experience to better expedite the ease of browsing and submitting service requests. MyLA311 is an app that has the potential to help improve the quality of life for many LA citizens, and usability testing this app will help us make adjustments in the right directions so that we can better mitigate the local concerns that MyLA311 reports. In particular, this usability testing will give us a better insight on the following usability issues that we identified in an early study of the MyLA311 website:
-- 
+The purpose of usability testing for MyLA311 is so that we can improve the app's overall user experience to better expedite the ease of browsing and submitting service requests. MyLA311 is an app that has the potential to help improve the quality of life for many LA citizens, and usability testing this app will help us make adjustments in the right directions so that we can better mitigate the local concerns that MyLA311 reports. In particular, this usability testing will give us a better insight on the following usability issues that we identified in an early study of the MyLA311 website: Error prevention; Flexibility and efficiency of use; Help Users Recognize, Diagnose, and Recover From Errors.
+
+Amongst the three aforementioned heuristics, the biggest issue that I found while reviewing the app was that there was little to no error prevention for users entering information for a service request. A user could easily mistype their address, or give a bogus email, location, name, or all three. This issue is particularly distressing for an app that should need accurate information to filter out spam requests, as well as confirm and execute service requests. 
+
+The three areas of concern are a part of the Neilsen Norman group's list of heuristics that are evaluated in user experience design. For more information on these heuristics, please see the [Neilsen Norman group's site](https://www.nngroup.com/articles/ten-usability-heuristics/). For a deeper read on my past review on MyLA311's user experience, with these heuristics as a basis, please visit my [DH 110 Assignment 1 readme file](https://github.com/ayoo2452/DH110/tree/main/Assignment%201)
+
+O
 
 
 ### Process 
