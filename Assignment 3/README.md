@@ -22,9 +22,9 @@ As for finding assistance with street- or traffic-related issues, users will typ
 
 While Google maps and Apple maps— the two most popular navigation systems amongst respondents in the United Tires study— offer information on public transport systems and what is available at the time of search, they do not allow users to plan a day’s worth of routes ahead of time. For example, say that I wanted to visit Santa Monica and Koreatown in one day, all while utilizing public transport. Google Maps would let me look up routes to Santa Monica and Koreatown individually, but it would be difficult for me to coordinate and save the times and exact stops that I intend to utilize while riding public transportation systems. In other words, we could improve coordination with bus system information by allowing users to specify when and for how long they intend to visit a place, as well as the bus timing/intervals that they need to be aware of around their intended time of arrival/departure. 
 
-### Target users (refer to the field guideline by IDEO, p.44-51)
+### Target users
 
-**1. What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)**\
+**1. What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)**
 - Demographics:
     - Students, workers, adults
     - Living in Los Angeles
@@ -36,7 +36,7 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 - Expertise: Target users may have any level of expertise in navigation, transportation, and tech literacy/familiarity.
 - The project solution is targeted at mainstream users, though I will strive to research and accommodate more extreme cases as I iterate through the design process.
 
-**2. In which context (where, why, under which conditions) would the users do that activity?**\
+**2. In which context (where, why, under which conditions) would the users do that activity?**
 - Where: 
     - Anywhere the user has access to the app/website and Wi-Fi/cellular data. Examples include home, at a restaurant, in a moving vehicle,
 - Why: 
