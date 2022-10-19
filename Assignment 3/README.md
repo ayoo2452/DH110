@@ -24,7 +24,8 @@ Or something you learned on your own (refer to the field guideline by IDEO, p.39
 
 ## :small_blue_diamond: Interview Guide/Script
 
-[Interview Guide Google Doc](https://docs.google.com/document/d/1GGkm1xfr-2ujvXvhCqpXRNmkW0pxDSDwYxur1dNQg0k/edit?usp=sharing)
+[Interview Guide Google Doc](https://docs.google.com/document/d/1GGkm1xfr-2ujvXvhCqpXRNmkW0pxDSDwYxur1dNQg0k/edit?usp=sharing)\
+*Please note that some parts may have been paraphrased based on the participants’ answers for conversation fluidity. Additionally, I asked a few follow-up questions based on the participants’ answers, as seen in the transcript.*
 
 Step04: Plan the details
 Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually (refer to the field guideline by IDEO, p.52-55)
