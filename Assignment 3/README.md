@@ -83,7 +83,8 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 *Note: The recording on my iPad Pro cut off about 80% of the way through my interview with Participant A, so I had to use the back-up audio recorded on my iPhone XR. The iPhone XR audio contains the Participant A interview, but is missing my introduction to the interview. If you'd like to hear the introduction, please use this link [here](https://drive.google.com/file/d/1oOYaQxQYjmVF7LnTp2HvFQqp0f7avRCk/view?usp=sharing).*
 
 ### Affinity Diagram 
-![My Image](a3 affinitydiagram.png)
+<img width="1290" alt="a3 affinitydiagram" src="https://user-images.githubusercontent.com/101301281/196644165-ff45d498-a3e6-4cf5-beda-4fa4b01ca2d6.png">
+
 - Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
 - Insights that I found particularly interesting are indicated with a row of astericks
 
