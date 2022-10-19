@@ -79,11 +79,9 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 | **A** | [Audio Recording: A](https://drive.google.com/file/d/12yxceIeYgCJOxZqmeuVCK4mei3rtvDls/view?usp=sharing)| [Transcript: A](https://docs.google.com/document/d/1YqXKP-tXg-FReXcKMnzNH3ZKdCKbAT58pFjcpEJjfGA/edit?usp=sharing)|
 | **B** | [Audio Recording: B](https://drive.google.com/file/d/1o4pWaB0OQ67CLVWJvV1ENiUGbRT43GJz/view?usp=sharing) | [Transcript: B](https://docs.google.com/document/d/1u72mR3NmdszDyK4Kv4-pobCVJxCbcxkWL9ARJwgMZek/edit?usp=sharing)|
 
-### Interesting excerpts
-> "INSERT HERE"
-> "INSERT HERE"
-
 ### Affinity Diagram 
-Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
+- Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
+- Insights that I found particularly interesting are indicated.
+
 
 ## 💡 Reflection 
