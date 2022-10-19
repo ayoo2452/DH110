@@ -80,11 +80,21 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 | **A** | [Audio Recording: A](https://drive.google.com/file/d/12yxceIeYgCJOxZqmeuVCK4mei3rtvDls/view?usp=sharing)| [Transcript: A](https://docs.google.com/document/d/1YqXKP-tXg-FReXcKMnzNH3ZKdCKbAT58pFjcpEJjfGA/edit?usp=sharing)|
 | **B** | [Audio Recording: B](https://drive.google.com/file/d/1o4pWaB0OQ67CLVWJvV1ENiUGbRT43GJz/view?usp=sharing) | [Transcript: B](https://docs.google.com/document/d/1u72mR3NmdszDyK4Kv4-pobCVJxCbcxkWL9ARJwgMZek/edit?usp=sharing)|
 
-*Note: The recording on my iPad Pro cut off about 80% of the way through my interview with Participant A, so I had to use the back-up audio recorded on my iPhone XR. The iPhone XR audio contains everything but my introduction to the survey. If you'd like to hear the introduction, please use this link [here](https://drive.google.com/file/d/1oOYaQxQYjmVF7LnTp2HvFQqp0f7avRCk/view?usp=sharing).*
+*Note: The recording on my iPad Pro cut off about 80% of the way through my interview with Participant A, so I had to use the back-up audio recorded on my iPhone XR. The iPhone XR audio contains the Participant A interview, but is missing my introduction to the interview. If you'd like to hear the introduction, please use this link [here](https://drive.google.com/file/d/1oOYaQxQYjmVF7LnTp2HvFQqp0f7avRCk/view?usp=sharing).*
 
 ### Affinity Diagram 
 - Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
-- Insights that I found particularly interesting are indicated.
+- Insights that I found particularly interesting are indicated with a row of astericks
 
 
 ## 💡 Reflection 
+
+Reflection 
+
+Write a short paragraph reflecting on your experience of planning and conducting an interview. What did you learn about interviewing participants? What would you do differently next time?
+Summary of the process, what went smoothly or differently from your expectation
+
++1: Insights from data
++1: Lesson learned
+
+This interview experience was extremely insightful to the user research process, as well as to my project in particular. I found that my participants were relatively talkative, making for great conversation and a fruitful interview. However, upon looking back at my transcript, I feel that I could have expanded further on certain topics that my participants brought up in their answers. That is, I see— in hindsight— that there are some follow-up questions that I should have or would have liked to ask. Since I am still relatively new to interviewing users, I felt a greater need to stick to my script instead of letting a natural conversation flow. While sticking to the script has its benefits, especially in terms of consistency, I feel that each user deserves a more in-depth discussion when their responses prompt it, and I'll improve moving forward by slowing down a bit in my interview process to really ensure I fully understand and expand upon my participants' answers.
