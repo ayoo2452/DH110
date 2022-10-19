@@ -67,27 +67,10 @@ While Google maps and Apple maps— the two most popular navigation systems amon
         - Audio was recorded through [Otter.ai](http://Otter.ai) on an iPad Pro. An additional back-up recording was made on an iPhone XR, via Apple’s default Recordings app
         - Participant A connected their AirPods to the recording device (iPad Pro) at their own request— they stated that they felt more comfortable and less awkward speaking when they have some microphone near them.
 
-Step03: Pick an qualitative research method (or a combination/adaptation of methods)
-by covert / overt observation
-by active / passive / participatory interaction *
-Or something you learned on your own (refer to the field guideline by IDEO, p.39-42)
-
 ## :small_blue_diamond: Interview Guide/Script
 
 [Interview Guide Google Doc](https://docs.google.com/document/d/1GGkm1xfr-2ujvXvhCqpXRNmkW0pxDSDwYxur1dNQg0k/edit?usp=sharing)\
 *Please note that some parts may have been paraphrased based on the participants’ answers for conversation fluidity. Additionally, I asked a few follow-up questions based on the participants’ answers, as seen in the transcript.*
-
-Step04: Plan the details
-Brainstorm the right contexts and narrow down to decide where to visit physically and/or virtually (refer to the field guideline by IDEO, p.52-55)
-Decide what activities to observe
-Decide how to interact with the users (ex. overt x participatory if it is contextual inquiry)
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the (interview + observation) guide (p.41)
-
-Step05: Conduct the research
-Contact, schedule, and visit the place
-Meet/Observe people/person, follow the interview guide you prepared
-Collect/Record the data, make a notes
 
 ## :small_blue_diamond: Representative Data Files (Audio Recording + Transcript)
 
@@ -104,14 +87,4 @@ Collect/Record the data, make a notes
 
 **Affinity Diagram** \
 Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
-
-Step06: Organize/Documentation
-In github (sub)repository of this assignment, create one document (either README.md or .html)
-Describe your research goal and requirement/constraints + target user (step1+2)
-Describe your research methods and plan (step3)
-Provide a link to your interview/observation guide (step4) 
-Digitize your notes (scan/photo) and upload your data to github
-Provide a link to your representative data file(s) (step5)
-Provide a link to the transcript of your interview (or meaningful dialogues/ talk-alouds during observation) 
-Write a reflection
 
