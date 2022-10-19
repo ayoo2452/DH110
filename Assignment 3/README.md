@@ -57,8 +57,8 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 ## :small_blue_diamond: Research Method
 
 - I have chosen to utilize the participant interview research method. At Professor Cho’s approval, I interviewed participants about their experiences in navigation and residing in Los Angeles, as it was not plausible to follow around strangers who own a car and/or ask to be driven around. Though typically terminology might not apply here, my research method can be roughly categorized as overt (as participants knew I was a researcher) and passive (I did not interfere with their answers to the hypothetical activities posited).
-- To get a more accurate representation of my target user, I found two participants at different UCLA parking structures. Labeled Participant A and Participant B, they parked at UCLA Parking Structures #8 and #7, respectively, and are UCLA undergraduate students. Both participants just finished driving prior to our interview.
-    - Note that Participant B’s interview was conducted at a private space in the UCLA Student Media building, due to excess noise in Parking Lot 7.
+- To get a more accurate representation of my target user, I found two undergraduate students who own and drive cars in LA to interview. Both participants just finished driving prior to our interview.
+    - Participant B’s interview was conducted at a private space in the UCLA Student Media building, due to excess noise in the parking lot where we met. Participant A's interview was conducted at a private area in Gayley Heights. Out of privacy concerns, neither location was video-recorded or photographed. 
 - Data collection
     - Method: Audio recording
     - Tools used:
