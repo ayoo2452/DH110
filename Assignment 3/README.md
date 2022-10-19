@@ -79,6 +79,10 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 | **A** | [Audio Recording: A]()| [Transcript: A]()|
 | **B** | [Audio Recording: B]() | [Transcript: B]()|
 
+### Interesting excerpts
+> "INSERT HERE"
+> "INSERT HERE"
+
 
 ## 💡 Reflection 
 
