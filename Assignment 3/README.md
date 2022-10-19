@@ -6,15 +6,15 @@
 
 Step01: Specify the research goal & requirements (refer to the field guideline by IDEO, p.31-33)\
 
-**1. What is the main activity your project would support for the users?**\
+**1. What is the main activity your project would support for the users?**
 This project aims to support the main activity of planning routes and transportation methods to a given destination in Los Angeles, all while identifying sustainability factors such as fuel-efficiency and eco-friendly options. It also aims to support the secondary issue of troubleshooting traffic-related issues such as reporting traffic due to construction, illegally parked cars, and civic technical issues (e.g. broken traffic lights). Note that this project limits itself to Los Angeles-specific issues due to our highly dense population and the specialized issues and/or solutions that can arise from our unique location and culture.
 
-**2. What is the basic need/goal involved for that activity?**\
+**2. What is the basic need/goal involved for that activity?**
 This activity is necessary because many citizens— not just Los Angeles citizens— rely on GPS or other navigation devices to route themselves, and often require assistance in deciding not only how to go some place, but by what means (e.g. public transportation, personal car, etc). Los Angeles is known for having difficult-to-navigate public transportation, thereby creating the basic need/goal to organize what bus or Metro lines to take, and how much time you should allot to round-trips on public transport.
 
-In terms of Maslow’s hierarchy of needs, the basic needs involved here are safety and personal security (also a part of the greater branch of safety). This is because transportation and navigation are key in meeting a person’s safety needs (e.g. it is dangerous to walk around or get lost at night). Additionally, I intend to incorporate features that show more environmentally-friendly transportation options, which can help meet the need of self-esteem (resulting from choosing a more sustainable option, which is widely hailed as an intelligent and conscientious move) as well as a sense of belonging, since eco-friendly options are of high public interest at the moment [(Source: “The Rise of the](https://www.strategy-business.com/article/The-rise-of-the-eco-friendly-consumer)). 
+In terms of [Maslow’s hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs), the basic needs involved here are safety and personal security (also a part of the greater branch of safety). This is because transportation and navigation are key in meeting a person’s safety needs (e.g. it is dangerous to walk around or get lost at night). Additionally, I intend to incorporate features that show more environmentally-friendly transportation options, which can help meet the need of self-esteem (resulting from choosing a more sustainable option, which is widely hailed as an intelligent and conscientious move) as well as a sense of belonging, since eco-friendly options are of high public interest at the moment [(Source: “The Rise of the](https://www.strategy-business.com/article/The-rise-of-the-eco-friendly-consumer)). 
 
-**3. What is(are) the traditional/current solution(s) to satisfy the needs?**\
+**3. What is(are) the traditional/current solution(s) to satisfy the needs?**
 
 To currently satisfy the need of navigation, Los Angeles users typically turn to Google Maps or Apple Maps to route themselves, be that when they drive themselves or when they attempt to use public transportation. In a survey study by United Tires, 93% of “respondents said they were dependent on their GPS and 1 in 5 use it every day”, while “83% of respondents said they would get lost without their GPS” ([Source: United Tires](https://www.utires.com/articles/where-drivers-need-gps-the-most/)).
 
@@ -40,15 +40,18 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 - The project solution is targeted at mainstream users, though I will strive to research and accommodate more extreme cases as I iterate through the design process.
 
 **2. In which context (where, why, under which conditions) would the users do that activity?**\
-    - Where: Anywhere the user has access to the app/website and Wi-Fi/cellular data. Examples include home, at a restaurant, in a moving vehicle,
-    -  Why: 
-        - To report traffic and/or street issues (ex. broken street lights or illegally parked cars)
-        - To explore transportation options to a given destination, while also noting traveling time and mileage
-        - To plan projected routes ahead of time and/or at the time of intended departure
+- Where: 
+    - Anywhere the user has access to the app/website and Wi-Fi/cellular data. Examples include home, at a restaurant, in a moving vehicle,
+- Why: 
+    - To report traffic and/or street issues (ex. broken street lights or illegally parked cars)
+    - To explore transportation options to a given destination, while also noting traveling time and mileage
+    - To plan projected routes ahead of time and/or at the time of intended departure
+- Which conditions:
+    - INSERT HERE
         
 **3. What would the users usually do in order to complete that activity?**\
 
-  Given services currently available and popular:
+*Given services currently available and popular:
 
 - Users would usually use Google Maps, Apple Maps, or their car navigation to look at routes and estimated traveling time.
 - To report or troubleshoot traffic issues, they might research their question or concern on the internet and browse until they find the most suitable and/or relevant site for their query.
