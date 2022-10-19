@@ -83,9 +83,7 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 > "INSERT HERE"
 > "INSERT HERE"
 
-
-## 💡 Reflection 
-
-**Affinity Diagram** \
+### Affinity Diagram 
 Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
 
+## 💡 Reflection 
