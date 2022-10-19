@@ -27,7 +27,6 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 ### Target users (refer to the field guideline by IDEO, p.44-51)
 
 **1. What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme)**\
-
 - Demographics:
     - Students, workers, adults
     - Living in Los Angeles
@@ -47,7 +46,8 @@ While Google maps and Apple maps— the two most popular navigation systems amon
     - To explore transportation options to a given destination, while also noting traveling time and mileage
     - To plan projected routes ahead of time and/or at the time of intended departure
 - Which conditions:
-    - INSERT HERE
+    - When users require additional information on transport or infrastructure issues, amongst other traffic-related concerns
+    - The main activity of planning routes and/or finding information on transportation related services should NOT be used in the condition of an emergency. This potential app/site that I intend to design is NOT for emergency purposes. 
         
 **3. What would the users usually do in order to complete that activity?**\
 
@@ -80,7 +80,7 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 | **A** | [Audio Recording: A](https://drive.google.com/file/d/12yxceIeYgCJOxZqmeuVCK4mei3rtvDls/view?usp=sharing)| [Transcript: A](https://docs.google.com/document/d/1YqXKP-tXg-FReXcKMnzNH3ZKdCKbAT58pFjcpEJjfGA/edit?usp=sharing)|
 | **B** | [Audio Recording: B](https://drive.google.com/file/d/1o4pWaB0OQ67CLVWJvV1ENiUGbRT43GJz/view?usp=sharing) | [Transcript: B](https://docs.google.com/document/d/1u72mR3NmdszDyK4Kv4-pobCVJxCbcxkWL9ARJwgMZek/edit?usp=sharing)|
 
-*Note: The recording on my iPad Pro cut off about 80% of the way through my interview with Participant A, so I had to use the back-up audio recorded on my iPhone XR. The iPhone XR audio contains everything but my introduction to the survey. If you'd like to hear the introduction, please use this link [here](https://drive.google.com/file/d/1oOYaQxQYjmVF7LnTp2HvFQqp0f7avRCk/view?usp=sharing). 
+*Note: The recording on my iPad Pro cut off about 80% of the way through my interview with Participant A, so I had to use the back-up audio recorded on my iPhone XR. The iPhone XR audio contains everything but my introduction to the survey. If you'd like to hear the introduction, please use this link [here](https://drive.google.com/file/d/1oOYaQxQYjmVF7LnTp2HvFQqp0f7avRCk/view?usp=sharing).*
 
 ### Affinity Diagram 
 - Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
