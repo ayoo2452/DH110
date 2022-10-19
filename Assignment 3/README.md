@@ -74,13 +74,10 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 
 ## :small_blue_diamond: Representative Data Files (Audio Recording + Transcript)
 
-**Participant A:**\
-[Audio Recording]()\
-[Transcript]()
-
-**Participant B:**\
-[Audio Recording]()\
-[Transcript]()
+| **Participant** | Audio Recording | Transcript |
+| :---: | :---: | :---: | 
+| **A** | [Audio Recording: A]()| [Transcript: A]()|
+| **B** | [Audio Recording: B]() | [Transcript: B]()|
 
 
 ## 💡 Reflection 
