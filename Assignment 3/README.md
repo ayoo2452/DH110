@@ -33,12 +33,20 @@ Decide how to interact with the users (ex. overt x participatory if it is contex
 Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
 Prepare the (interview + observation) guide (p.41)
 
+Step05: Conduct the research
+Contact, schedule, and visit the place
+Meet/Observe people/person, follow the interview guide you prepared
+Collect/Record the data, make a notes
+
 ## :small_blue_diamond: Representative Data Files (Audio Recording + Transcript)
 
-**Participant A: **
+**Participant A:**\
+[Audio Recording]()\
+[Transcript]()
 
-
-
+**Participant B:**\
+[Audio Recording]()\
+[Transcript]()
 
 ## :small_blue_diamond: Research
 Step05: Conduct the research
@@ -47,6 +55,9 @@ Meet/Observe people/person, follow the interview guide you prepared
 Collect/Record the data, make a notes
 
 ## 💡 Reflection 
+
+**Affinity Diagram** \
+Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
 
 Step06: Organize/Documentation
 In github (sub)repository of this assignment, create one document (either README.md or .html)
