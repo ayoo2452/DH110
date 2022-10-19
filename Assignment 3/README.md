@@ -70,7 +70,7 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 ## :small_blue_diamond: Interview Guide/Script
 
 [Interview Guide Google Doc](https://docs.google.com/document/d/1GGkm1xfr-2ujvXvhCqpXRNmkW0pxDSDwYxur1dNQg0k/edit?usp=sharing)\
-*Please note that some parts may have been paraphrased based on the participants’ answers for conversation fluidity. Additionally, I asked a few follow-up questions based on the participants’ answers, as seen in the transcript. 
+*Please note that some parts may have been paraphrased based on the participants’ answers for conversation fluidity. Additionally, I asked a few follow-up questions based on the participants’ answers, as seen in the transcript.* 
 > **All Google Drive links in this README file can only be accessed with a UCLA email**
 
 ## :small_blue_diamond: Representative Data Files (Audio Recording + Transcript)
