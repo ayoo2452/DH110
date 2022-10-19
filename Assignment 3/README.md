@@ -49,11 +49,6 @@ Collect/Record the data, make a notes
 [Audio Recording]()\
 [Transcript]()
 
-## :small_blue_diamond: Research
-Step05: Conduct the research
-Contact, schedule, and visit the place
-Meet/Observe people/person, follow the interview guide you prepared
-Collect/Record the data, make a notes
 
 ## 💡 Reflection 
 
