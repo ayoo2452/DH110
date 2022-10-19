@@ -88,12 +88,15 @@ While Google maps and Apple maps— the two most popular navigation systems amon
 - Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
 - Insights that I found particularly interesting are indicated with a row of astericks
 
-### Insights
-
+### More interesting insights
+- Participants A and B were both extremely reliant upon and trusting of their GPS software, and use it regularly even for short/roughly familiar drives. However, neither wants to have to look up directions to bus. Follow up questions I'd like to look further into: 
+    - What is too much information to handle for navigation? Both driving with GPS and looking up routes involve following directions from the GPS, but what discriminates one from the other?
 - Participant A had limited knowledge and interest in learning about City of LA services
     > "I mean, I know that I can look online, and like a lot of the information is there. But I just don't have stuff like off the top of my head. And I'm usually just too lazy to look online, in general, because it doesn't really impact me unless I really need it." - Participant A
-- There's an added social benefit in choosing private transport (i.e. driving own car) over public transport (e.g. Metro, bus)
-    > 
+- Participant B doesn't take the bus to new places or unfamiliar areas, and usually only takes the bus on routes they've been before. Indicates a circular issue.
+    > **Question:** "So are you more comfortable with busing to places that you've been prior to? Like just bussing to places that you're more familiar with?"
+    
+    > **Participant B:** "I would say so, yeah. If I had to look up how to take a bus—to like somewhere new— I would probably just end up driving."
 
 ## 💡 Reflection 
 
