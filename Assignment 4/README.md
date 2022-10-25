@@ -12,10 +12,10 @@ TWO of Persona + empathy maps + scenarios + Journey maps
 
 ### Persona & Empathy Maps 
 
-**Persona 1: Taylor Whitestead ([Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))**
+Persona 1: Taylor Whitestead ([Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
 <img width="881" alt="DH 110- TaylorWhitesteadPersona" src="https://user-images.githubusercontent.com/101301281/197882126-0b4d7776-41e1-4616-a64e-0343b3d02a80.PNG">
 
-**Persona 2: Kimia Lee ([Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))**
+Persona 2: Kimia Lee ([Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
 
 ### Scenarios & Journey Maps
 
