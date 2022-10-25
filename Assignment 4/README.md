@@ -7,17 +7,23 @@ UX storytelling is an important step in empathizing with potential users, and fo
 ## Tasks 
 Two tasks you want to propose for the ux design
 
-## Storytelling 
-TWO of Persona + empathy maps + scenarios + Journey maps 
+## Persona 1: Taylor Whitestead (Images: [Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
 
-### Persona & Empathy Maps 
-
-Persona 1: Taylor Whitestead ([Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
+### Persona + Empathy Map
 <img width="881" alt="DH 110- TaylorWhitesteadPersona" src="https://user-images.githubusercontent.com/101301281/197882126-0b4d7776-41e1-4616-a64e-0343b3d02a80.PNG">
 
-Persona 2: Kimia Lee ([Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
+### Scenario
 
-### Scenarios & Journey Maps
+
+
+### Journey Map
+
+## Persona 2: Kimia Lee (Images: [Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
+
+### Persona + Empathy Map
+
+### Scenario
+### Journey Map
 
 
 ## Reflection
