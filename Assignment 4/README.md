@@ -14,7 +14,12 @@ Two tasks you want to propose for the ux design
 
 ### Scenario
 
+1. Why is Taylor using this app?
+> Taylor(they/them) is a graduate student at UCLA studying molecular biology. They are almost always buried in their assignments and time-sensitive lab work, both of which are physically and mentally taxing after an extended period with little to no breaks. In a (slightly uncharacteristic) bout of generosity, Taylor's supervisor announced that they could take the day off on Halloween (Monday, Oct. 31). Taylor— an out of state student who grew up in ____ — is extremely excited to get a chance to explore Los Angeles recreationally. They do have a car that they could use to navigate through West LA and beyond, but they don't want to have to worry about gas prices and potential parking issues/payments depending on where they go. 
 
+> Taylor was never a big user of the public transport back in their hometown _____, so they are relatiively unfamiliar with public transit, and even less so in Los Angeles. With a few destinations in mind, Taylor uses Google Maps to look up the respective routes that they could take via public transit (in this case, assume public transit is limited to bus systems). They are immediately met with a variety of lines they could take, some requiring a bus transfer, and others not. They continue to browse bus options, and also find that the route options vary in how much walking (e.g. to the connecting stop) they require. As written in the persona, Taylor has knee issues and cannot stand nor walk excessive distances. Taylor is now at a loss, and is confused on how they know which bus to take— depending on the time, availability, and walking they require. 
+
+2. How does Taylor use this app? 
 
 ### Journey Map
 
@@ -23,6 +28,10 @@ Two tasks you want to propose for the ux design
 ### Persona + Empathy Map
 
 ### Scenario
+
+1. Why is Kimia using this app? 
+> Kimia is a primary/elementary school principal in Koreatown,CA. Ever since she was in college, Kimia knew that she wanted to be involved in elementary education and also wanted to build a tight-knit, supportive community between parents, students, faculty, and staff members at her school. When sending her bi-weekly principal updates via digital newsletter (from an email list), Kimia also includes a list of nearby activities and services available for free and/or at reduced/limited cost to Los Angeles citizens. She provides these resources for students' parents, who may require assistance in varying subsets of needs. Kimia wants to provide the most accurate and updated information to her parents, but has found that finding relevant resources/nearby events and linking them within her newsletters to be more time-consuming and frustrating than it needs to be. Additionally, Kimia wants to map out basic routes that others can take to reach the in-person city service centers— e.g. routes going to or from her school. Kimia also believes that spreading goodwill and well-intended information should be easy and effortless, so she is really looking for a platform where she can find and share philanthropic resources with easy.
+
 ### Journey Map
 
 
