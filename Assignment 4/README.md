@@ -10,7 +10,8 @@ Two tasks you want to propose for the ux design
 ## Persona 1: Taylor Whitestead (Images: [Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
 
 ### Persona + Empathy Map
-<img width="881" alt="DH 110- TaylorWhitesteadPersona" src="https://user-images.githubusercontent.com/101301281/197882126-0b4d7776-41e1-4616-a64e-0343b3d02a80.PNG">
+
+![Persona 1](https://user-images.githubusercontent.com/101301281/197952730-7600188b-e826-4be5-8cea-25bbd9aabeda.png)
 
 ### Scenario
 
@@ -23,9 +24,12 @@ Two tasks you want to propose for the ux design
 
 ### Journey Map
 
+![P1- Situation + journey map](https://user-images.githubusercontent.com/101301281/197952783-30f8514f-6159-4a53-a6fd-4e2477860bc2.png)
+
 ## Persona 2: Kimia Lee (Images: [Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
 
 ### Persona + Empathy Map
+![Persona 2](https://user-images.githubusercontent.com/101301281/197952825-96e02d20-d945-4c08-9ba6-ee9e15168255.png)
 
 ### Scenario
 
@@ -33,6 +37,7 @@ Two tasks you want to propose for the ux design
 > Kimia is a primary/elementary school principal in Koreatown,CA. Ever since she was in college, Kimia knew that she wanted to be involved in elementary education and also wanted to build a tight-knit, supportive community between parents, students, faculty, and staff members at her school. When sending her bi-weekly principal updates via digital newsletter (from an email list), Kimia also includes a list of nearby activities and services available for free and/or at reduced/limited cost to Los Angeles citizens. She provides these resources for students' parents, who may require assistance in varying subsets of needs. Kimia wants to provide the most accurate and updated information to her parents, but has found that finding relevant resources/nearby events and linking them within her newsletters to be more time-consuming and frustrating than it needs to be. Additionally, Kimia wants to map out basic routes that others can take to reach the in-person city service centers— e.g. routes going to or from her school. Kimia also believes that spreading goodwill and well-intended information should be easy and effortless, so she is really looking for a platform where she can find and share philanthropic resources with easy.
 
 ### Journey Map
+![P2- Situation + journey map](https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png)
 
 
-## :bulb: Reflection
+## Reflection
