@@ -4,8 +4,14 @@
 ## Introduction: Purpose of UX Storytelling
 UX storytelling is an important step in empathizing with potential users, and for brainstorming ideas on how certain users may need/want to utilize your product. By creating personas and journey maps, we can better orient ourselves to see our product through the eyes of a user and identify different problem-solving avenues. In general, UX storytelling and personas in particular allow us to consider accessibility issues and posit design solutions by examining realistic cases and situations that might entail the use (or dismissal) of a product. For this project, I utilize UX storytelling for all the aforementioned reasons, as well as for the additional benefit of hypothesizing a multi-faceted platform that users with various goals can utilize.
 
-## Tasks 
-Two tasks you want to propose for the ux design
+## Tasks  
+- **Task One:** Organize a discrete/non-continuous route with multiple stops (i.e. destinations), and to compare public transport lines/systems with ease. Additionally, users should be able to get notifications when their bus is approaching and/or when a bus heading towards their listed destination is nearby.
+
+  > This task is intended to be the main focus/draw of the mobile version of this product
+
+- **Task Two:** Find public services and/or community events with ease, and highly relevant filters (e.g. by location, date/time, type of service). Additionally, users should be able to share the events they find, create a curated list of events, and make use of the navigation system to pre-set routes that can also be shared/exported to different file formats. 
+
+  > This is intended to be the main focus/draw of the desktop version of this product.
 
 ## Persona 1: Taylor Whitestead (Images: [Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
 
