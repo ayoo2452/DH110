@@ -46,3 +46,5 @@ Two tasks you want to propose for the ux design
 ![P2- Situation + journey map](https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png)
 
 ## Reflection
+- Using UX storytelling was really helpful in clarifying my intentions with this project, as well as re-orienting the direction that I want this app to take. 
+- I also found it unexpectedly difficult to come up with detailed personas. One of the main goals of building personas is to step away from your personal perspective and step into the shoes of a certain kind of user, but I don't know that I can truly remove myself and any implicit biases from this process, as I myself am the creator of this persona. 
