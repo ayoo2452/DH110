@@ -39,7 +39,9 @@ For this assignment in particular, I tested focus points #1 and #2, as these are
 
 ##  :small_blue_diamond: User Testing
 
-> NOTE: All photos were taken _before_ the participant started on their wireflows— we both agreed that having a camera on during the process might be burdensome. Additionally, the picture of the participant on the "Services" pages/frames was taken as I introduced the general idea of how I wanted their hypothetical wireflow to be drawn. I used the services page as an example, since neither of the assigned tasks pertained to that section.
+> NOTE 1 : All photos were taken _before_ the participant started on their wireflows— we both agreed that having a camera on during the process might be burdensome. Additionally, the picture of the participant on the "Services" pages/frames was taken as I introduced the general idea of how I wanted their hypothetical wireflow to be drawn. I used the services page as an example, since neither of the assigned tasks pertained to that section.
+
+> NOTE 2: Wireframes created in Figma. Tested and annotated by participant in GoodNotes, using an iPad Pro with an Apple Pencil (2nd generation).
 
 |  Services page | Resources (Task 2) | Find a route (Task 1) |
 | ------------- | ------------- |  ------------- |
@@ -49,11 +51,24 @@ For this assignment in particular, I tested focus points #1 and #2, as these are
 
 ![Copy of 22F DH 110- Wireflow (User Ver)-1](https://user-images.githubusercontent.com/101301281/199454311-8f0f260f-6071-4f89-87b0-df1ca702ce3c.jpg)
 
-### Notes on participant's chosen pathway
+## 💡 Reflection 
 
-- The user was able to complete both tasks without much difficulty. However, the user did take significantly longer to complete Task One (route finding) than Task Two (Saving a resource).
+### Notes on participant's chosen pathway and testing
+
+- The participant was able to complete both tasks without much difficulty. However, they did take significantly longer to complete Task One (route finding) than Task Two (Saving a resource).
+- Participant was not very vocal in their thought process, resulting in limited internal insight. Additionally, they conveyed that their actions/pathway decisions were based on intuition, which are difficult to articulate. 
 - In the login page, the user chose "Continue as guest", but then proceeded to the "Register" frames. The intent for "Continnue as guest" was so that the user did not have to input any information about themselves into the system, and instead go straight to the "What can we help with" frame. I found this to be very interesting, and made me realize how my own biases played into setting my expectations for my wireframes. I would also like to test these frames again, and write "Continue without signing in" instead of "Continue as guest". This might set an expectation that the user won't be logging in, which in turn would make arriving at the "Register" page unnatural/less likely. 
 - The frames that corresponded with Task 1 (route/navigation) were lacking in signifiers, and will most definitely be improved on as we move to mid- and high-fidelity designs). However, the user was able to complete the task without difficulty, implying a strong tech fluency that should be considered as I move forward in the design process. (That is, I should be considerate of the fact that my participant was highly profficient in using technology, so not all design flaws have been addressed). 
 - User was briefly confused with the different share buttons/icons during Task 2. Should consider what icon is more common in the LA County area, as the differences in familiarity with this particular icon result from the users' mobile device (iOS devices versus Android).
 
-## :bulb: Reflection 
+- **What went well:**
+  - User was able to complete both tasks 
+  - Minor confusion (e.g. icon recognition), but nothing that prevented the task from being completed 
+  - Obtained insight on phrasing for "Continue as a guest"
+
+- **Ways to improve:**
+  - Ask more follow-up questions. I'm still new to being a researcher/moderator, so it's quite difficult to quickly think of conductive questions that aren't too leading 
+  - Space out the wireframes more to make pathways clearer (also, for more space for me to annotate the participant's areas of confusion and/or insight)
+
+### Areas to improve
+
