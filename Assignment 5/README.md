@@ -3,13 +3,22 @@
 
 ##  :small_blue_diamond: Description 
 ### Purpose 
-The purpose of this low-fi prototype is to create a working model of my proposed design solutions for the issues and pain points with MyLA311 that were identified throughout my heuristic evaluation and user research. Additionally, this low-fi prototype incorporates design solutions to make coordinating routes via public transit easier and less cognitively intensive for users (especially those unfamiliar with LA public transit). 
+The purpose of this low-fi prototype is to create a working model of my proposed design solutions for the issues and pain points with MyLA311 that were identified throughout my heuristic evaluation and user research. Low-fidelity prototypes are incredible important to the UX design process, as they allow us to understand how users will interact with our potential design solutions. Additionally, low-fi designs are presented as an intermediate measure of our designs’ efficacy, allowing us to catch errors, miscommunications, or user mis-use earlier in the design process. 
+
+In particular, this project aims to remedy issues with browsing ability and a lack of cohesive resource information on MyLA311.  Additionally, this low-fi prototype incorporates design solutions to make coordinating routes via public transit easier and less cognitively intensive for users (especially those unfamiliar with LA public transit). Thus, the main three focus points of my project will be as follows: 
+
+1. Create a cohesive, easily browse-able directory of resources available to the community. This should support easy browsing 
+2. Re-organize and address error verification issues with the Submit a Request function on MyLA311 app
+3. Allow for users to easily plan routes via LA public transit, with features that allow for easy comparisons of routes, scheduling times, and helpful notifications reminding users of approaching departure times when they’re out and about. 
+
+For this assignment in particular, I tested focus points #1 and #3, as these are the issues that align with the scenarios presented in [Assignment 4: Personas and Scenarios]().
 
 ### Tasks
 
-##  :small_blue_diamond: Wireframes: [View Figma File]()
+##  :small_blue_diamond: Wireframes: [View Figma File](https://www.figma.com/file/R1BWWgWCwNropFUYQ7e7fg/22F-DH-110?node-id=0%3A1)
 
 ##  :small_blue_diamond: Wireflow 
+
 ### General 
 ### Task 1 
 ### Task 2 
