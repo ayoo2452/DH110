@@ -17,7 +17,10 @@ For this assignment in particular, I tested focus points #1 and #3, as these are
 1. BLANK
 2. BLANK
 
-##  :small_blue_diamond: Wireframes: [View Figma File](https://www.figma.com/file/R1BWWgWCwNropFUYQ7e7fg/22F-DH-110?node-id=0%3A1)
+##  :small_blue_diamond: Wireframes: [View Figma file for all frames](https://www.figma.com/file/R1BWWgWCwNropFUYQ7e7fg/22F-DH-110?node-id=0%3A1)
+
+![22F DH 110- Wireframes only](https://user-images.githubusercontent.com/101301281/199456000-2df728e4-dd65-4dee-9691-7baf36ad818f.png)
+
 
 ##  :small_blue_diamond: Wireflow 
 
