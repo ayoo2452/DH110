@@ -20,8 +20,8 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 For this assignment in particular, I tested focus points #1 and #2, as these are the issues that align with the scenarios presented in [Assignment 4: Personas and Scenarios](https://github.com/ayoo2452/DH110/tree/main/Assignment%204). However, note the rough wireframes for Service Requests in the Wireframes and/or Wireflow sections below. 
 
 ### Tasks
-1. BLANK
-2. BLANK
+1. Choose a route from UCLA/current location to The Grove, with an intermediate stop at Westfield Century City. Sort the order of your destinations for efficiency, and compare the routes. Make a decision (on your route) based on the available factors. 
+2. Browse all resources on the app, and save one that catches your eye. Then, view all your saved resources, and share that list as a PDF for easy distribution.
 
 ##  :small_blue_diamond: Wireframes: [View Figma file for all frames](https://www.figma.com/file/R1BWWgWCwNropFUYQ7e7fg/22F-DH-110?node-id=0%3A1)
 
@@ -45,9 +45,15 @@ For this assignment in particular, I tested focus points #1 and #2, as these are
 | ------------- | ------------- |  ------------- |
 | ![IMG_0860](https://user-images.githubusercontent.com/101301281/199458603-ea0f0700-690b-4130-bcff-400f415aba69.JPG) |  ![IMG_0868](https://user-images.githubusercontent.com/101301281/199458709-03c8238b-96be-4265-bc25-4bebee7871d8.JPG) |  ![IMG_0870](https://user-images.githubusercontent.com/101301281/199458678-b27795e0-814f-4bf2-9a0a-fcd4c8caf4b8.JPG) |
 
-### User wireflows
+### User wireflows (Researcher notes are annotated in purple)
 
 ![Copy of 22F DH 110- Wireflow (User Ver)-1](https://user-images.githubusercontent.com/101301281/199454311-8f0f260f-6071-4f89-87b0-df1ca702ce3c.jpg)
 
-> Notes on Task 1: 
-> THe user
+### Notes on participant's chosen pathway
+
+- The user was able to complete both tasks without much difficulty. However, the user did take significantly longer to complete Task One (route finding) than Task Two (Saving a resource).
+- In the login page, the user chose "Continue as guest", but then proceeded to the "Register" frames. The intent for "Continnue as guest" was so that the user did not have to input any information about themselves into the system, and instead go straight to the "What can we help with" frame. I found this to be very interesting, and made me realize how my own biases played into setting my expectations for my wireframes. I would also like to test these frames again, and write "Continue without signing in" instead of "Continue as guest". This might set an expectation that the user won't be logging in, which in turn would make arriving at the "Register" page unnatural/less likely. 
+- The frames that corresponded with Task 1 (route/navigation) were lacking in signifiers, and will most definitely be improved on as we move to mid- and high-fidelity designs). However, the user was able to complete the task without difficulty, implying a strong tech fluency that should be considered as I move forward in the design process. (That is, I should be considerate of the fact that my participant was highly profficient in using technology, so not all design flaws have been addressed). 
+- User was briefly confused with the different share buttons/icons during Task 2. Should consider what icon is more common in the LA County area, as the differences in familiarity with this particular icon result from the users' mobile device (iOS devices versus Android).
+
+## :bulb: Reflection 
