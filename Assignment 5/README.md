@@ -70,6 +70,6 @@ For this assignment in particular, I tested focus points #1 and #2, as these are
   - Ask more follow-up questions. I'm still new to being a researcher/moderator, so it's quite difficult to quickly think of conductive questions that aren't too leading 
   - Space out the wireframes more to make pathways clearer (also, for more space for me to annotate the participant's areas of confusion and/or insight)
 
-### Areas to improve
+### Areas to improve the prototype
 
-1. Changing 
+1. Changing the "Continue as guest" to say "Continue without logging in" instead. When forming their pathway, my participant went from the login screen (options: Login, Register, Continue as guest), clicked "Continue as guest", but then directed themselves to the "Register" page. They were of the belief that "Continue as guest" meant that you'd eventually have to log in/sign up, thus leading them to designate the "Register" page as the next step. I aim to ammend this issue by writing "Continue without logging in", which should reassure the user that they will not be providing personal information--  unless they choose to request a service that requires personal contact information (ex. filing a complaint about a private property).
