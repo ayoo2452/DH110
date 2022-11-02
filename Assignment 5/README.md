@@ -61,14 +61,15 @@ For this assignment in particular, I tested focus points #1 and #2, as these are
 - The frames that corresponded with Task 1 (route/navigation) were lacking in signifiers, and will most definitely be improved on as we move to mid- and high-fidelity designs). However, the user was able to complete the task without difficulty, implying a strong tech fluency that should be considered as I move forward in the design process. (That is, I should be considerate of the fact that my participant was highly profficient in using technology, so not all design flaws have been addressed). 
 - User was briefly confused with the different share buttons/icons during Task 2. Should consider what icon is more common in the LA County area, as the differences in familiarity with this particular icon result from the users' mobile device (iOS devices versus Android).
 
-- **What went well:**
+- **What went well**
   - User was able to complete both tasks 
   - Minor confusion (e.g. icon recognition), but nothing that prevented the task from being completed 
   - Obtained insight on phrasing for "Continue as a guest"
 
-- **Ways to improve:**
+- **Ways to improve testing procedures**
   - Ask more follow-up questions. I'm still new to being a researcher/moderator, so it's quite difficult to quickly think of conductive questions that aren't too leading 
   - Space out the wireframes more to make pathways clearer (also, for more space for me to annotate the participant's areas of confusion and/or insight)
 
 ### Areas to improve
 
+1. Changing 
