@@ -11,7 +11,7 @@ In particular, this project aims to remedy issues with browsing ability and a la
 2. Re-organize and address error verification issues with the Submit a Request function on MyLA311 app
 3. Allow for users to easily plan routes via LA public transit, with features that allow for easy comparisons of routes, scheduling times, and helpful notifications reminding users of approaching departure times when they’re out and about. 
 
-For this assignment in particular, I tested focus points #1 and #3, as these are the issues that align with the scenarios presented in [Assignment 4: Personas and Scenarios]().
+For this assignment in particular, I tested focus points #1 and #3, as these are the issues that align with the scenarios presented in [Assignment 4: Personas and Scenarios](https://github.com/ayoo2452/DH110/tree/main/Assignment%204).
 
 ### Tasks
 
