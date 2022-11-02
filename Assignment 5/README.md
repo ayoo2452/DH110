@@ -42,3 +42,5 @@ For this assignment in particular, I tested focus points #1 and #3, as these are
 ### User wireflows
 
 ![Copy of 22F DH 110- Wireflow (User Ver)-1](https://user-images.githubusercontent.com/101301281/199454311-8f0f260f-6071-4f89-87b0-df1ca702ce3c.jpg)
+
+> Notes on Task 1: 
