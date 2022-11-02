@@ -30,10 +30,15 @@ For this assignment in particular, I tested focus points #1 and #3, as these are
 **Task 1 and 2 Wireflows**
 ![22F DH 110- Wireflow 0](https://user-images.githubusercontent.com/101301281/199449942-2319aa3e-98c6-492c-9307-442bb5f7be9c.jpg)
 
-### User Testing
-![Copy of 22F DH 110- Wireflow (User Ver)-1](https://user-images.githubusercontent.com/101301281/199454311-8f0f260f-6071-4f89-87b0-df1ca702ce3c.jpg)
-
-
-
 
 ##  :small_blue_diamond: User Testing
+
+> NOTE: All photos were taken _before_ the participant started on their wireflows— we both agreed that having a camera on during the process might be burdensome. Additionally, the picture of the participant on the "Services" pages/frames was taken as I introduced the general idea of how I wanted their hypothetical wireflow to be drawn. I used the services page as an example, since neither of the assigned tasks pertained to that section.
+
+|  Services page | Resources (Task 2) | Find a route (Task 1) |
+| ------------- | ------------- |  ------------- |
+| ![IMG_0860](https://user-images.githubusercontent.com/101301281/199458603-ea0f0700-690b-4130-bcff-400f415aba69.JPG) |  ![IMG_0868](https://user-images.githubusercontent.com/101301281/199458709-03c8238b-96be-4265-bc25-4bebee7871d8.JPG) |  ![IMG_0870](https://user-images.githubusercontent.com/101301281/199458678-b27795e0-814f-4bf2-9a0a-fcd4c8caf4b8.JPG) |
+
+### User wireflows
+
+![Copy of 22F DH 110- Wireflow (User Ver)-1](https://user-images.githubusercontent.com/101301281/199454311-8f0f260f-6071-4f89-87b0-df1ca702ce3c.jpg)
