@@ -81,3 +81,5 @@ For this assignment in particular, I tested focus points #1 and #2, as these are
 
 ### Reflection on low-fidelity prototypes: 
 
+Low-fidelity prototypes are incredibly insightful and a great means to orient a design team in their path towards innovative, useful products. I certaintly felt this throughout my assignment, as wireframing really helped me lay out all my ideas and see how they might operate as a cohesive unit. This assignment poked several holes in my proposed design, so I'm both daunted and excited to know how much more I will be iterating on my current designs. 
+
