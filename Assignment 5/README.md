@@ -19,6 +19,18 @@ For this assignment in particular, I tested focus points #1 and #3, as these are
 
 ##  :small_blue_diamond: Wireflow 
 
+**Full Wireflow**
+![22F DH 110- Wireflow -1](https://user-images.githubusercontent.com/101301281/199447638-6d463e3b-4ea6-4533-87c1-fab160226f6b.jpg)
+
+**Task 1 and 2 Wireflows **
+![22F DH 110- Wireflow 0](https://user-images.githubusercontent.com/101301281/199449942-2319aa3e-98c6-492c-9307-442bb5f7be9c.jpg)
+
+
+
+
+
+
+
 ### General 
 ### Task 1 
 ### Task 2 
