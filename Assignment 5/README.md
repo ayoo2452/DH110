@@ -14,6 +14,8 @@ In particular, this project aims to remedy issues with browsing ability and a la
 For this assignment in particular, I tested focus points #1 and #3, as these are the issues that align with the scenarios presented in [Assignment 4: Personas and Scenarios](https://github.com/ayoo2452/DH110/tree/main/Assignment%204).
 
 ### Tasks
+1. BLANK
+2. BLANK
 
 ##  :small_blue_diamond: Wireframes: [View Figma File](https://www.figma.com/file/R1BWWgWCwNropFUYQ7e7fg/22F-DH-110?node-id=0%3A1)
 
@@ -25,13 +27,7 @@ For this assignment in particular, I tested focus points #1 and #3, as these are
 **Task 1 and 2 Wireflows**
 ![22F DH 110- Wireflow 0](https://user-images.githubusercontent.com/101301281/199449942-2319aa3e-98c6-492c-9307-442bb5f7be9c.jpg)
 
-
-
-
-
-
-
-### General 
+### User Testing
 ### Task 1 
 ### Task 2 
 
