@@ -49,6 +49,7 @@ The UI/UX design process is always iterative, and as such I may further improve 
 
 
 ## 🔹  Impression test 
+> Could not find a user willing to be recorded. All quotations are paraphrased in detail based on the notes I took during testing. 
 
 ## 🔹  Design System + Summary
 ### Typography
