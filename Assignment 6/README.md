@@ -49,7 +49,30 @@ The UI/UX design process is always iterative, and as such I may further improve 
 
 
 ## 🔹  Impression test 
-> Could not find a new user willing to be recorded. All quotations are paraphrased in detail based on the notes I took during testing. 
+> User was unwilling to be recorded, so all quotations are paraphrased in detail based on the notes I took during testing. 
+
+**Five-second impression test** 
+- The participant remembered:
+  -  General colour scheme (remembered blue header and main button, as well as yellow on the "upcoming events" section)
+  -  General goals of the page (to find resources and services) 
+
+- The participant did NOT remember: 
+  -  What organization the site is affiliated with (e.g. government, city of LA) 
+  -  The kinds of categories for services and/or types of popular services
+
+**Key quotes from participant, paraphrased**
+> "My first impression? Hm... There's not much to it, really. It's not bad, for sure, but nothing outstanding design-wise. I guess we can say it's professional?" 
+> 
+> - "I like the blue. I feel like I've been seeing a lot of purple and gradients lately, so a simple design is nice. I'll say it does remind me of a lot of banks, though." 
+> 
+> - "I couldn't tell you what kind of services there were. I know there were like 6 options, though. I don't read fast enough and none of the smaller text grabbed my eye. Have you thought of adding more visuals?" 
+> 
+> - "I'm looking at the mobile design on the desktop right now. I think it'd be better to show this to users on a phone instead. It looks fine here, but I think I may have a different perspective on my phone." (For context: I showed the participant the Figma frame on prototyping mode, from my laptop)
+
+**Summary and takeaways**
+The user views the app as simple and straightforward, but does not seem particularly drawn by the design. That is, they don't seem to view the design as anything special. They do note that it does not follow the trends of gradients seen more often in trendier UI design. The user also pointed out a need for more visuals. I think this is a great idea, and I think iconography would be especially helpful for the category section of the resources. I also think that since this app does center around human needs, it should incorporate more visuals to convey this sentiment. 
+
+
 
 ## 🔹  Design System + Summary
 ### Typography
