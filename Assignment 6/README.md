@@ -58,13 +58,14 @@ The UI/UX design process is always iterative, and as such I may further improve 
 - **Body text:** Manrope Regular, 16 pt, 1% Letter Spacing, 1.1x line height
 - **Caption text:** Manrope Extra Light, 14 pt, 2 % Letter Spacing. 1.1x line height
 
-### Colour scheme- Light mode:**
-- **Main colours:**
-- **Background:**
-- **Buttons / Other Assets:**
-- **Font:**
+### Colour scheme
+![03 1 1 Colour Var 1Palette](https://user-images.githubusercontent.com/101301281/200762745-0a6a9336-4296-4a27-95f8-b6c0dc37a5cf.png)
 
-
+### Layout
+- 10 rows, 4 columns 
+- Margin: 30 
+- Gutter: 20 
+- Colour & Opacity: Red (#FF0000) at 10% opacity
 
 
 
