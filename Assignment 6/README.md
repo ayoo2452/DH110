@@ -18,7 +18,16 @@
 </p>
 
 
-### Colour variation & accessibility check 
+### Colour variation
+![Colour Variation](https://user-images.githubusercontent.com/101301281/200747210-85c0cc88-b2be-4407-9e76-d11b4a1d48f8.png)
+
+
+### Accessibility check
+> NOTE: I've noticed that the image quality is appearing lower for some devices. View the Figma file [here](https://www.figma.com/file/R1BWWgWCwNropFUYQ7e7fg/22F-DH-110?node-id=138%3A1166) for better quality.
+
+![03 1 1 Colour Contrast - Dark](https://user-images.githubusercontent.com/101301281/200748806-5d1e772b-c9be-4c95-876c-2344adfd7a73.png)
+![03 1 1 Colour Contrast - Light](https://user-images.githubusercontent.com/101301281/200748811-6a91e12f-61bf-44a5-ae28-abd23a9a7b0f.png)
+
 
 ## 🔹  Impression test 
 
