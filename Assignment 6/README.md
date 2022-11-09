@@ -38,7 +38,8 @@ The UI/UX design process is always iterative, and as such I may further improve 
 
 
 ### Colour variation
-![Colour Variation](https://user-images.githubusercontent.com/101301281/200747210-85c0cc88-b2be-4407-9e76-d11b4a1d48f8.png)
+![Colour Variation](https://user-images.githubusercontent.com/101301281/200777545-cad6c283-8498-4862-919e-db31e8abcf63.png)
+
 
 
 ### Accessibility check
@@ -89,7 +90,8 @@ The user views the app as simple and straightforward, but does not seem particul
 
 
 ### Colour scheme
-![03 1 1 Colour Var 1Palette](https://user-images.githubusercontent.com/101301281/200762745-0a6a9336-4296-4a27-95f8-b6c0dc37a5cf.png)
+![03 1 1 Colour Var 1Palette](https://user-images.githubusercontent.com/101301281/200777473-43c04558-aab8-42a5-95cb-cb126203b319.png)
+
 
 > **Colour decisions**
 
