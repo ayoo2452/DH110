@@ -11,11 +11,14 @@
 
 
 ### Typographic variations
+![01 0 Text Variation](https://user-images.githubusercontent.com/101301281/200752496-8f5a88e2-a15b-4e20-bb59-fecf58debeb9.png)
+![Type Variation Frames](https://user-images.githubusercontent.com/101301281/200753050-204d51a3-7b29-473b-9cfc-e79ddd10263e.png)
+
+
 
 ### Shape variations
-<p align="center">
-<img width="90%" class="center" alt="DH 110 Shape Variation" src="https://user-images.githubusercontent.com/101301281/200744700-b5f2d5e9-f669-45a8-93c8-7b07a80f2bdb.png">
-</p>
+![Shape variation](https://user-images.githubusercontent.com/101301281/200749903-f7cc846b-3481-4ee4-8fcd-699c97d1ec33.png)
+
 
 
 ### Colour variation
@@ -23,7 +26,7 @@
 
 
 ### Accessibility check
-> NOTE: I've noticed that the image quality is appearing lower for some devices. View the Figma file [here](https://www.figma.com/file/R1BWWgWCwNropFUYQ7e7fg/22F-DH-110?node-id=138%3A1166) for better quality.
+> NOTE: I've noticed that the image quality is appearing lower for some devices. View the Figma file [here](https://www.figma.com/file/hCWuj8WsEqumdAJYi72R7P/22F-DH-110-(Copy)?node-id=138%3A1166) for better quality.
 
 ![03 1 1 Colour Contrast - Dark](https://user-images.githubusercontent.com/101301281/200748806-5d1e772b-c9be-4c95-876c-2344adfd7a73.png)
 ![03 1 1 Colour Contrast - Light](https://user-images.githubusercontent.com/101301281/200748811-6a91e12f-61bf-44a5-ae28-abd23a9a7b0f.png)
