@@ -2,6 +2,22 @@
 # Assignment 6: Interface Design System
 
 ## 🔹 Description 
+**Project Summary**
+This project centers around an unsolicited redesign of MyLA311, LA City's 311 app for fielding city services for local residents. This app also aims to enhance and make more efficient the LA transit experience. Both design efforts will serve to help LA residents better utilize the public services available to them, in an effort to create a more sustainable community that follows the UN's sustainability goal for sustainable cities and communmities. 
+
+**Process and purpose of interface design** 
+The process of the interface design for my app began with the low-fidelity wireframes created during Assignment 5. There, I designed the cornerstone wireframes for the major interactions of the app, and outlined a general wireflow that reflects the intended userflow. This assignment moves further to develop the interface design of the app, focusing more on the graphic/visual elements of my app design (e.g. colour palette). Here, I test several different variations of important design elements: layout, typography, shape, colour, and colour-contrast accessibility. The process of iterating through these design properties occurs in the order listed prior (beginning with layout, ending with accessibility). 
+
+The UI/UX design process is always iterative, and as such I may further improve the design system that I have created throughout this assignment. However, the purpose of creating this interface design is to not only ensure a more visually-appealing experience for my users, but also maximize consistency across screens and to construct a definitive style-guide for my designs moving forward. This allows me to orient myself in the visual design process, and deeply consider what colours, visual assets, etc. will be in line with my goals of designing an easy, intuitive interface that is maximally accessible. 
+
+> Link to Figma file [here](https://www.figma.com/file/hCWuj8WsEqumdAJYi72R7P/22F-DH-110-(Copy)?node-id=138%3A1166)
+> 
+> View the resulting high-fidelity wireframe below (in light and dark mode). Note that my design section will begin iterating from the low-fi version of this wireframe.
+![UI Wireframe](https://user-images.githubusercontent.com/101301281/200758434-c0403c4c-8e3a-4783-8322-0dd1faeef672.png)
+
+
+
+
 
 ## 🔹  Design 
 ### Layout variations 
