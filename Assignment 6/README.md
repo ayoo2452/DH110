@@ -51,4 +51,8 @@ The UI/UX design process is always iterative, and as such I may further improve 
 ## 🔹  Impression test 
 
 ## 🔹  Design System + Summary
-
+### Graphic design summary
+- **Title:** Manrope Extra Bold, 34 pt, 1% Letter Spacing, 1.1x line height
+- **Subtitle:** Manrope Medium , 21 pt, 1% Letter Spacing, 1.1x line height
+- **Body text:** Manrope Regular, 16 pt, 1% Letter Spacing, 1.1x line height
+- **Caption text:** Manrope Extra Light, 14 pt, 2 % Letter Spacing. 1.1x line height
