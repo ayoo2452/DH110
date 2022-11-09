@@ -49,7 +49,7 @@ The UI/UX design process is always iterative, and as such I may further improve 
 
 
 ## 🔹  Impression test 
-> Could not find a user willing to be recorded. All quotations are paraphrased in detail based on the notes I took during testing. 
+> Could not find a new user willing to be recorded. All quotations are paraphrased in detail based on the notes I took during testing. 
 
 ## 🔹  Design System + Summary
 ### Typography
@@ -58,7 +58,10 @@ The UI/UX design process is always iterative, and as such I may further improve 
 - **Body text:** Manrope Regular, 16 pt, 1% Letter Spacing, 1.1x line height
 - **Caption text:** Manrope Extra Light, 14 pt, 2 % Letter Spacing. 1.1x line height
 
-> **Decisions on typography**
+### Colour scheme
+**Light mode:**
+> hi
+
 
 
 
