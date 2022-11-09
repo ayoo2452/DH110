@@ -58,7 +58,7 @@ The UI/UX design process is always iterative, and as such I may further improve 
 - **Body text:** Manrope Regular, 16 pt, 1% Letter Spacing, 1.1x line height
 - **Caption text:** Manrope Extra Light, 14 pt, 2 % Letter Spacing. 1.1x line height
 
-> Typography decisions
+> **Typography decisions**
 
 > In my first low-fidelity draft of my wireframes, I used different variations of Montserrat for the placeholder text. However, I found the width of individual characters on Montserrat to be too large, making it difficult to fit larger amounts of text on smaller screens/visual assets. I then tested three variations of typography: Poppins, Assitant, and Manrope. I immediately gravitated towards Poppins and Manrope, mainly because I found Assistant to appear too condensed and narrow. This limits visibility on smaller screens, so I moved away from Assistant early on in my selection process. 
 > 
@@ -68,7 +68,7 @@ The UI/UX design process is always iterative, and as such I may further improve 
 ### Colour scheme
 ![03 1 1 Colour Var 1Palette](https://user-images.githubusercontent.com/101301281/200762745-0a6a9336-4296-4a27-95f8-b6c0dc37a5cf.png)
 
-> Colour decisions
+> **Colour decisions**
 
 > The colour palette I chose takes influence from the current MyLA311 app, which is comprised almost entirely of blue. I decided to add additional shades of blue to add more contrast and visual stimulation in the design. In particular, I found it hard to choose a button colour for the popular resources/services buttons. There are quite a few of these buttons and they make much of the interface without scrolling, so any colour I chose seemed to be too overwhelming. I ended up choosing a near-white shade of grey (#FEFEFE) to use as the base button colour. I also added a drop-shadow to the light mode, and an inner-shadow to the dark mode to indicate the affordance of "press-ability". That is, I wanted to signify that the buttons could be pressed down on, so I used elements that added dimension to the buttons (borrowing on design factors from skeuomorphism).
 
@@ -78,7 +78,7 @@ The UI/UX design process is always iterative, and as such I may further improve 
 - Gutter: 20 
 - Colour & Opacity: Red (#FF0000) at 10% opacity
 
-> Layout decisions
+> **Layout decisions**
 > 
 > I am generally utilizing the layout for column, margin, and gutter guidance. The rows are also in place for guidance, but I am also utilizing Figma's tools for snapping to matching dimensions (e.g. indicating when multiple elements are X pixels apart), as some of my design utilizes more asymmetrical design in the vertical direction, so exact divisions set by rows may not align perfectly with my design assets. I chose this particular layout (10 rows, 4 columns) because I felt the amount of information (i.e. buttons and interactable elements) will vary per page, so I wanted a number of rows that would be easily divisible regardless of the exact quantities of information per screen. As seen above, I also considered utilizing a grid layout/guide, but I felt it to be too distracting because of all the boxes, and also because it's difficult to visualize the gutters (rather, I would have to recall the number of grid spaces that objects should be apart).
 
