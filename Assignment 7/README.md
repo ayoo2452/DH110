@@ -17,7 +17,12 @@ The purpose of creating an interactive prototype is to fully visualize the user 
 2. Browse all resources on the app, and select one that catches your eye. Save the resource to your list of resources, then export/share that resource. For this prototype, I’ve chosen to have the prototype support the specific task of “export as a CSV”, but the share window pop-up indicates other options. 
 3. Submit a city service request by following the guided procedure. Review and receive confirmation of the submitted request. 
 
-## 🔹Wireflow
+## 🔹Wireframes + Wireflow
+
+### Wireframe overview 
+> Longer frames correspond with scrollable content
+
+![High Fidelity Frames](https://user-images.githubusercontent.com/101301281/202692653-8a5afb5c-1ad0-4e18-b46c-a7ca43e76e51.png)
 
 ### Task 1
 ![Task 1](https://user-images.githubusercontent.com/101301281/202691767-5fb1e801-523a-4bee-a902-4e93a8501cb9.png)
