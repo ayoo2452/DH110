@@ -33,7 +33,7 @@ The purpose of creating an interactive prototype is to fully visualize the user 
 ### Task 3
 ![Task 3](https://user-images.githubusercontent.com/101301281/202691814-91834ffd-a553-4563-abef-9622b88d1a33.png)
 
-## 🔹 Interactive Prototype: Link [here]()
+## 🔹 Interactive Prototype: Link [here](https://www.figma.com/proto/tKZZgP8erT8ucS9jFNoi9a/22F-DH-110-(Master-Copy)?page-id=196%3A528&node-id=305%3A488&viewport=177%2C1629%2C0.4&scaling=scale-down&starting-point-node-id=305%3A488&show-proto-sidebar=1)
 > The prototype utilizes the flow features on Figma— please open the sidebar and select the given task flow. 
 
 ## 🔹 Cognitive walk through
