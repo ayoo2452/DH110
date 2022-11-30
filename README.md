@@ -224,7 +224,8 @@ Cognitive Walkthrough: Main takeaways
 
 ## 🔹 Pitch video
 
-> :video_camera: View the pitch video [here]()
+> :video_camera: View the pitch video [here](https://drive.google.com/file/d/1NulHzN_zjXuoBKf6hqzYlQ5RC9LQfePW/view?usp=sharing) 
+> UCLA emails only
 
 ## 🔹 Conclusion
 
