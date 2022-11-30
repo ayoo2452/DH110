@@ -4,17 +4,17 @@
 # MyLA311: Unsolicited Mobile Redesign
 
 
-## 🔹Introduction
+## <a name="intro">🔹Introduction</a>
 Just as sustainable communities depend on proper environmental regulation, the daily circumstances of citizens are equally relevant and should be thoroughly accounted for and supported by their respective local governments. In a sprawling, densely populated city like Los Angeles, a need for organized support and communication with the local government is extremely **prevalent**.  As such, my project this quarter is an unsolicited mobile redesign of MyLA311, a mobile app created by the City of Los Angeles as a means to facilitate city service request submissions. This app targets users based in Los Angeles, as the city services that users may request only range over the Los Angeles area. My redesign also draws information from the website 211LA.org, which provides information on economic, domestic, and/or personal resources available to Los Angeles citizens. As a whole, this project reflects the UN's Sustainable Community and Cities goal (SDG #11) as it will serve as a uniting resource to help LA citizens better make use of available resources, including but not limited to city services, public transit, and volunteer organizations.  
 
-## 🔹Design Statement
+## <a name="designStatement">🔹Design Statement</a>
 
 Los Angeles is infamous for its high cost of living and is notoriously difficult to navigate without a car, but this city also has underutilized facilities and resources. This project aims to create a centralized hub of information for Los Angeles residents, allowing easy access to city-provided resources like public transit and city services. Furthermore, this redesign intends to raise awareness **for support systems and/or organizations for various concerns.
 
+Having streamlined communication and easy access to resources is incredibly important to foster a sustainable community. Thus, it is important to resolve this issue through my project— a mobile redesign— because such a product utilizes modern advances in technology and communication to improve the quality of life for Los Angeles citizens. 
+
 > *Note that this project limits itself to Los Angeles-specific issues due to our highly dense population and the specialized issues and/or solutions that can arise from our unique location and culture.*
 > 
-
-Having streamlined communication and easy access to resources is incredibly important to foster a sustainable community. Thus, it is important to resolve this issue through my project— a mobile redesign— because such a product utilizes modern advances in technology and communication to improve the quality of life for Los Angeles citizens. 
 
 ## 🔹Competitor Analysis [A1, A2]
 
@@ -44,11 +44,11 @@ Having streamlined communication and easy access to resources is incredibly impo
 **********************Major pain points in design:**********************
 
 - Error prevention:
-    - Most of MyLA311’s poor design comes from their lack of error prevention throughout the “Create Service Request” user flow. To begin, I randomly chose a service to “request” (Dog Defecation, under the Animal Complaints/Violations section). Upon navigating to the Service Request Details page, I found that I had to input my residence address in. Many online retailers or forms that require you to input an address typically verify your address— that is, they make sure that you’ve entered a real address. However, MyLA311 does not have such a feature, so users are responsible for validating their own address (typos are also not accounted for).
-    - Another area of concern is the Contact Info section of submitting a request. Though the initial page annotates what information belongs where (ex. “Email” is written in the first box), these annotations go away once users start typing in those boxes. If a user didn’t read these annotations and just started randomly inputting information (say, wrote the first name in the top box, last name in the second, and their email in the third), the system would error, but the user would have to erase at least one of their inputs to verify what box is for what information.
-    - And as mentioned previously in [Heuristic 1](https://github.com/ayoo2452/DH110/tree/main/Assignment%201#1.1), users are not given a confirmation/review page prior to submitting their request. Removing the ability to review the requests can be detrimental to users, developers, and those who have to follow up on all the requested services. Users may not see their problem resolved due to a mistaken input, developers may have to account for more ways to filter erroneous/mistyped inputs, and local authorities may waste resources on looking into incorrectly cited reports.
+    - The “Create Service Request” userflow does not prompt users to verify input locations and/or addresses. Users are able to enter arbitrary entries to the address input section. 
+    - Users are not given a confirmation/review page prior to submitting their request. As such, users may not see their problem resolved due to a mistaken input, developers may have to account for more ways to filter erroneous/mistyped inputs, and local authorities may waste resources on looking into incorrectly cited reports.
 - Flexibility and efficiency of use:
-    - A major flaw in this app lies in its poor browse-ability. Specifically, the “City Service Directory” has extremely poor organization. When navigating to this directory, users are met with an extensive list of services that are in no apparent order— they aren’t sorted alphabetically, nor by sector, and there are no relevant dates attached to the service titles that might hint at how services are being organized. Additionally, there is no way to filter the services. Users looking to browse through a specific category of services (say, housing assistance) would have to scroll through the entirety of the list.
+    - The “City Service Directory” feature has extremely poor organization. This feature is composed of an extensive list of services that are in no apparent order— they aren’t sorted alphabetically, nor by sector, and there are no relevant dates attached to the service titles that might hint at how services are being organized. 
+    - No way to filter the services. Users looking to browse through a specific category of services (say, housing assistance) would have to scroll through the entirety of the list.
 
 ### **********************************************************Heuristic evaluation #2: 211LA.org**********************************************************
 
@@ -68,8 +68,7 @@ Having streamlined communication and easy access to resources is incredibly impo
 **********************Major pain points in design:**********************
 
 - Flexibility and efficiency of use
-    - The site makes use of information hierarchy to display resource categories, rather than promoting the groups that provide them. This allows users to quickly glance at a logged resource and understand immediately what kind of service they provide (or are likely to provide)
-    - The site could also benefit from providing time/availability as an additional filter when browsing resources and/or events. This would be extremely beneficial to people who are looking to receive certain services at certain hours of the day (ex. working parents who need to narrow down the resources based on when they are available).
+    - The site could benefit from providing time/availability as an additional filter when browsing resources and/or events. For instance, allowing users to filter results to only include services available at certain hours of the day (ex. working parents who need to narrow down the resources based on when they are available).
 
 ### Usability Testing - Pilot
 
@@ -83,17 +82,6 @@ View the pilot usability testing here
 ## 🔹 User Research [A3]
 
 5) User research [contextual inquiry, assignment03]:
-
-Summary text and image, link to your assignment folder
-
-### Representative Data Files (Audio Recording + Transcript)
-
-| Participant | Audio Recording | Transcript |
-| --- | --- | --- |
-| A | Audio Recording: A | Transcript: A |
-| B | Audio Recording: B | Transcript: B |
-
-*Note: The recording on my iPad Pro cut off about 80% of the way through my interview with Participant A, so I had to use the back-up audio recorded on my iPhone XR. The iPhone XR audio contains the Participant A interview, but is missing my introduction to the interview. If you'd like to hear the introduction, please use this link [here](https://drive.google.com/file/d/1oOYaQxQYjmVF7LnTp2HvFQqp0f7avRCk/view?usp=sharing).*
 
 ### Interesting insights
 
@@ -123,16 +111,6 @@ Summary text and image, link to your assignment folder
 
 ![https://user-images.githubusercontent.com/101301281/197952730-7600188b-e826-4be5-8cea-25bbd9aabeda.png](https://user-images.githubusercontent.com/101301281/197952730-7600188b-e826-4be5-8cea-25bbd9aabeda.png)
 
-### Scenario
-
-1. Why is Taylor using this app/site?
-
-> Taylor(they/them) is a first-year graduate student at UCLA studying molecular biology. They are almost always buried in their assignments and time-sensitive lab work, both of which are physically and mentally taxing after an extended period with little to no breaks. In a (slightly uncharacteristic) bout of generosity, Taylor's supervisor announced that they could take the day off on Halloween (Monday, Oct. 31). Taylor— an out of state student who grew up in Oregon is extremely excited to get a chance to explore Los Angeles recreationally. They do have a car that they could use to navigate through West LA and beyond, but they don't want to have to worry about gas prices and potential parking issues/payments depending on where they go.
-> 
-
-> Taylor was never a big user of the public transport back in their hometown Oregon, so they are relatiively unfamiliar with public transit, and even less so in Los Angeles. With a few destinations in mind (The Grove, LACMA, and the Academy Museum), Taylor uses Google Maps to look up the respective routes that they could take via public transit (in this case, assume public transit is limited to bus systems). They are immediately met with a variety of lines they could take, some requiring a bus transfer, and others not. They continue to browse bus options, and also find that the route options vary in how much walking (e.g. to the connecting stop) they require. As written in the persona, Taylor has knee issues and cannot stand nor walk excessive distances. Taylor is now at a loss, and is confused on how they know which bus to take— depending on the time, availability, comfortability, and walking they require. They're also unsure of how to navigate the bus once they enter it-- that is, they are not sure how to pay for the bus or how to indicate to the bus driver when to stop.
-> 
-
 ### Journey Map
 
 ![https://user-images.githubusercontent.com/101301281/197952783-30f8514f-6159-4a53-a6fd-4e2477860bc2.png](https://user-images.githubusercontent.com/101301281/197952783-30f8514f-6159-4a53-a6fd-4e2477860bc2.png)
@@ -142,13 +120,6 @@ Summary text and image, link to your assignment folder
 ### Persona + Empathy Map
 
 ![https://user-images.githubusercontent.com/101301281/197952825-96e02d20-d945-4c08-9ba6-ee9e15168255.png](https://user-images.githubusercontent.com/101301281/197952825-96e02d20-d945-4c08-9ba6-ee9e15168255.png)
-
-### Scenario
-
-1. Why is Kimia using this app/site?
-
-> Kimia is a primary/elementary school principal in Koreatown,CA. Ever since she was in college, Kimia knew that she wanted to be involved in elementary education and also wanted to build a tight-knit, supportive community between parents, students, faculty, and staff members at her school. When sending her bi-weekly principal updates via digital newsletter (from an email list), Kimia also includes a list of nearby activities and services available for free and/or at reduced/limited cost to Los Angeles citizens. She provides these resources for students' parents, who may require assistance in varying subsets of needs. Kimia wants to provide the most accurate and updated information to her parents, but has found that finding relevant resources/nearby events and linking them within her newsletters to be more time-consuming and frustrating than it needs to be. Additionally, Kimia wants to map out basic routes that others can take to reach the in-person city service centers— e.g. routes going to or from her school. Kimia also believes that spreading goodwill and well-intended information should be easy and effortless, so she is really looking for a platform where she can find and share philanthropic resources with ease.
-> 
 
 ### Journey Map
 
@@ -195,21 +166,11 @@ Summary text and image, link to your assignment folder
 - **Body text:** Manrope Regular, 16 pt, 1% Letter Spacing, 1.1x line height
 - **Caption text:** Manrope Extra Light, 14 pt, 2 % Letter Spacing. 1.1x line height
 
-> Typography decisions
-> 
-
-> In my first low-fidelity draft of my wireframes, I used different variations of Montserrat for the placeholder text. However, I found the width of individual characters on Montserrat to be too large, making it difficult to fit larger amounts of text on smaller screens/visual assets. I then tested three variations of typography: Poppins, Assitant, and Manrope. I immediately gravitated towards Poppins and Manrope, mainly because I found Assistant to appear too condensed and narrow. This limits visibility on smaller screens, so I moved away from Assistant early on in my selection process.
-> 
-> 
-> Visually, Poppins and Manrope are quite similar to each other (and both of them similar to Monsterrat). They do however vary more distinctly in punctuation and numerical symbols. I found Poppins to be too round in these aspects (e.g. the period in Poppins is a circle, whereas Manrope uses a rectangle) in that it seemed to exude a softness that does not feel in line with a government-operated platform. Thus, I ended up choosing Manrope. As for sizing, I chose what I felt to be most visible to users given the amount of text and/or visual elements on the screen. I hope to verify this with additional user testing when we iterate on our high-fidelity prototypes.
-> 
-
 ### Colour scheme
 
 ![https://user-images.githubusercontent.com/101301281/200777473-43c04558-aab8-42a5-95cb-cb126203b319.png](https://user-images.githubusercontent.com/101301281/200777473-43c04558-aab8-42a5-95cb-cb126203b319.png)
 
 > Colour decisions
-> 
 
 > The colour palette I chose takes influence from the current MyLA311 app, which is comprised almost entirely of blue. I decided to add additional shades of blue to add more contrast and visual stimulation in the design. In particular, I found it hard to choose a button colour for the popular resources/services buttons. There are quite a few of these buttons and they make much of the interface without scrolling, so any colour I chose seemed to be too overwhelming. I ended up choosing a near-white shade of grey (#FEFEFE) to use as the base button colour. I also added a drop-shadow to the light mode, and an inner-shadow to the dark mode to indicate the affordance of "press-ability". That is, I wanted to signify that the buttons could be pressed down on, so I used elements that added dimension to the buttons (borrowing on design factors from skeuomorphism).
 > 
@@ -229,12 +190,6 @@ Summary text and image, link to your assignment folder
 - Margin: 30
 - Gutter: 20
 - Colour & Opacity: Red (#FF0000) at 10% opacity
-
-> Layout decisions
-> 
-> 
-> I am generally utilizing the layout for column, margin, and gutter guidance. The rows are also in place for guidance, but I am also utilizing Figma's tools for snapping to matching dimensions (e.g. indicating when multiple elements are X pixels apart), as some of my design utilizes more asymmetrical design in the vertical direction, so exact divisions set by rows may not align perfectly with my design assets. I chose this particular layout (10 rows, 4 columns) because I felt the amount of information (i.e. buttons and interactable elements) will vary per page, so I wanted a number of rows that would be easily divisible regardless of the exact quantities of information per screen. As seen above, I also considered utilizing a grid layout/guide, but I felt it to be too distracting because of all the boxes, and also because it's difficult to visualize the gutters (rather, I would have to recall the number of grid spaces that objects should be apart).
-> 
 
 ## 🔹 High-fidelity Prototype
 
