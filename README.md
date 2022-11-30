@@ -1,7 +1,7 @@
 ![00 - Cover](https://user-images.githubusercontent.com/101301281/204706492-ff08d262-b2f7-414e-bb2f-c69febc3f03f.png)
 
 ### by Alex Yoo | Fall 2022, DH 110
-# MyLA311: Unsolicited Mobile Redesign
+# myLA311: Unsolicited Mobile Redesign
 
 
 ## <a name="intro">🔹Introduction</a>
