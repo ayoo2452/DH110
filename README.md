@@ -163,6 +163,7 @@ Summary text and image, link to your assignment folder
 
 ### Typography
 
+![01 0 Text Variation- Chosen](https://user-images.githubusercontent.com/101301281/204715908-287c6852-369a-4068-9b30-a3971e7ad669.png)
 
 - **Title:** Manrope Extra Bold, 34 pt, 1% Letter Spacing, 1.1x line height
 - **Subtitle:** Manrope Medium , 21 pt, 1% Letter Spacing, 1.1x line height
