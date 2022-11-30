@@ -69,12 +69,15 @@ Having streamlined communication and easy access to resources is incredibly impo
 
 - Flexibility and efficiency of use
     - The site could benefit from providing time/availability as an additional filter when browsing resources and/or events. For instance, allowing users to filter results to only include services available at certain hours of the day (ex. working parents who need to narrow down the resources based on when they are available).
+    
+> :mega: View the full documentation on heuristic evaluations [here]()
 
 ### Usability Testing - Pilot
 
 The usability testing was guided largely by the resources supplied by Professor Cho. Most questions use the template questions provided in class, with specifications made to tailor the form to my specific app (MyLA311). The participant responded to all survey questions via Google Forms, and entered their information using the provided laptop computer. In addition to the online survey, the participant was asked to complete a few tasks in the existing MyLA311 app. Throughout the three tasks, I asked the participant to articulate aloud some of their thoughts to better understand their process and justifications for their navigation. Both these tasks and the rest of the questions in the survey served to measure the user's ease of use.
 
-View the pilot usability testing here
+> :mega: View the full documentation on pilot usability testing [here]()
+
 
 > *********************Note: Only UCLA email addresses will be able to access the file.*********************
 > 
@@ -98,6 +101,10 @@ View the pilot usability testing here
     
     > Participant B: "I would say so, yeah. If I had to look up how to take a bus—to like somewhere new— I would probably just end up driving."
     > 
+    
+    
+    
+> :mega: View the full documentation on user research [here]()
 
 ## 🔹 UX Storytelling [A4]
 
@@ -125,6 +132,8 @@ Summary text and image, link to your assignment folder
 
 ![https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png](https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png)
 
+> :mega: View the full documentation on UX Storytelling [here]()
+
 ## 🔹 Low-fidelity Prototype
 
 7) Low-fidelity prototype (wireflow, assignment05)
@@ -145,15 +154,15 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 
 ### Main areas to improve the prototype
 
-1. **Changing the "Continue as guest" to say "Continue without logging in" instead.** When forming their pathway, my participant went from the login screen (options: Login, Register, Continue as guest), clicked "Continue as guest", but then directed themselves to the "Register" page. They were of the belief that "Continue as guest" meant that you'd eventually have to log in/sign up, thus leading them to designate the "Register" page as the next step. I aim to ammend this issue by writing "Continue without logging in", which should reassure the user that they will not be providing personal information-- unless they choose to request a service that requires personal contact information (ex. filing a complaint about a private property).
-2. **Adding more signifiers and significantly more detail to the navigation portion of the app.** Though my user didn't have a large issue with completing Task 1, I definitely noticed them wavering and hesitating when directing their user-flow. I personally think this feature is going to need significant upgrades, which is what I will be working on in the next week as we shift to high-fidelity design. In particular, I want to add more data points for the users to utilize as they compare buses (ex. how busy the bus is at that hour). Additionally, I intend to research more on ways to alleviate the cognitive load on users following a bus navigation. I think that making use of notifications that utilize different modalities to alert the user will be especially helpful. For instance, having a phone vibrate when nearing a stop is helpful to a user who may be overwhelmed with visual stimuli.
-3. **Enhancing the filter and sort-by functions for all three portions (Navigation, Services, Resources)**. This goal isn't spurned by my participant's experience, but accessibility of information comes from the ease of acquiring it, so I hope to better support browsing functionality in all three feature sectors of my proposed app. In particular, I think filtering will be important for Resource browsing, as many people are looking for specific events and/or services for their specific circumstances.
+1. **Changing the "Continue as guest" to say "Continue without logging in" instead.** 
+2. **Adding more signifiers and significantly more detail to the navigation portion of the app.** 
+3. **Enhancing the filter and sort-by functions for all three portions (Navigation, Services, Resources)**
+
+> :mega: View the full documentation on the low-fidelity prototype [here]()
 
 ## 🔹 Wireframes & Design System [A6]
 
 8) Wireframe and graphic design element variation [assignment06]
-
-Summary text and image, link to your assignment folder
 
 ###  Hi-Fidelity Wireframe: Design System sample
 
@@ -195,11 +204,15 @@ Summary text and image, link to your assignment folder
 - Gutter: 20
 - Colour & Opacity: Red (#FF0000) at 10% opacity
 
+> :mega: View the full documentation on the wireframes and design system [here]()
+
 ## 🔹 High-fidelity Prototype
 
 9) High-fidelity prototype (functional/interactive prototype, assignment07)
 
 Summary statement and link to or an embedded prototype
+
+> :mega: View the full documentation on the high-fidelity prototype [here]()
 
 ## 🔹 Cognitive Walkthrough + Revisions
 
@@ -213,6 +226,6 @@ Summary statement and link to or an embedded prototype
 
 ## 🔹 Pitch video
 
-11) Pitch video [update the video after recording your presentation]
+> :video_camera: View the pitch video [here]()
 
 ## 🔹 Conclusion
