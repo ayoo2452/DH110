@@ -78,10 +78,6 @@ The usability testing was guided largely by the resources supplied by Professor 
 
 > :mega: View the full documentation on pilot usability testing [here]()
 
-
-> *********************Note: Only UCLA email addresses will be able to access the file.*********************
-> 
-
 ## 🔹 User Research [A3]
 
 ### Interesting insights
@@ -207,6 +203,11 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 3. The tracking bar on the “submit a service request” section is really useful. Consider implementing more “tracking” features throughout each sector of the app, and in the earliest stages of a process.
 4. Users would benefit from seeing more information on what to expect after submitting a request (E.g. How long till they get a response? Will they get a confirmation email?)
 5. The app has a professional, clean feel to it. Reviewer B noted that the app is consistent in aesthetic, colouring, and layout.
+6. The "submit a service request" is a key feature of the redesign, but the button for it seems to get lost in its current position/design. Try to make it stand out more. 
+
+**Revision based on Takeaway #6**
+![DH 110 - Hi Fi Revision](https://user-images.githubusercontent.com/101301281/204722769-5e6b4e58-319c-41df-8816-3da51e4c5ea6.png)
+
 
 ## 🔹 Pitch video
 
