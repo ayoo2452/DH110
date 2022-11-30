@@ -84,8 +84,6 @@ The usability testing was guided largely by the resources supplied by Professor 
 
 ## 🔹 User Research [A3]
 
-5) User research [contextual inquiry, assignment03]:
-
 ### Interesting insights
 
 - Participants A and B were both extremely reliant upon and trusting of their GPS software, and use it regularly even for short/roughly familiar drives. However, neither wants to have to look up directions to bus. Follow up questions I'd like to look further into:
@@ -107,10 +105,6 @@ The usability testing was guided largely by the resources supplied by Professor 
 > :mega: View the full documentation on user research [here]()
 
 ## 🔹 UX Storytelling [A4]
-
-6) UX storytelling [persona+scenario, assignment04]
-
-Summary text and image, link to your assignment folder
 
 ## Persona 1: Taylor Whitestead (Images: [Google Drive Ver.](https://drive.google.com/drive/folders/1SAU-YB3vyxjTszdIJb_A6HcP_nkYHt7f?usp=sharing))
 
@@ -136,10 +130,6 @@ Summary text and image, link to your assignment folder
 
 ## 🔹 Low-fidelity Prototype
 
-7) Low-fidelity prototype (wireflow, assignment05)
-
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-
 Upon imagining realistic usage scenarios for both users (information on which can be found in [Assignment 4: Personas and Scenarios](https://github.com/ayoo2452/DH110/tree/main/Assignment%204)), I identified three features of interest for the redesign of MyLA311:
 
 1. A route-finder with information specific and tailored to LA Public Transit (not just the Metro, but including other public transport services that serve the greater Los Angeles County area). This navigation should ease cognitive load, and provide enough information on the different lines/systems so that first time users understand their options sufficiently.
@@ -161,8 +151,6 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 > :mega: View the full documentation on the low-fidelity prototype [here]()
 
 ## 🔹 Wireframes & Design System [A6]
-
-8) Wireframe and graphic design element variation [assignment06]
 
 ###  Hi-Fidelity Wireframe: Design System sample
 
@@ -207,10 +195,6 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 > :mega: View the full documentation on the wireframes and design system [here]()
 
 ## 🔹 High-fidelity Prototype
-
-9) High-fidelity prototype (functional/interactive prototype, assignment07)
-
-Summary statement and link to or an embedded prototype
 
 > :mega: View the full documentation on the high-fidelity prototype [here]()
 
