@@ -277,10 +277,6 @@ Summary statement and link to or an embedded prototype
 
 ## Cognitive Walkthrough + Revisions
 
-10) Optional evaluation and revision history
-
-Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-
 ******************************************Cognitive Walkthrough: Main takeaways******************************************
 
 1. The current design seems to rely on subtitles and/or written information. This may be a weak point for users who rely more on visual cues to quickly navigate the page. Try to emphasize key features using more contrasting colours and/or sizing.
