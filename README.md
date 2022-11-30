@@ -70,13 +70,13 @@ Major pain points in design:
 - Flexibility and efficiency of use
     - The site could benefit from providing time/availability as an additional filter when browsing resources and/or events. For instance, allowing users to filter results to only include services available at certain hours of the day (ex. working parents who need to narrow down the resources based on when they are available).
     
-> :mega: View the full documentation on heuristic evaluations [here]()
+> 📣 View the full documentation on heuristic evaluations [here]()
 
 ### Usability Testing - Pilot
 
 The usability testing was guided largely by the resources supplied by Professor Cho. Most questions use the template questions provided in class, with specifications made to tailor the form to my specific app (MyLA311). The participant responded to all survey questions via Google Forms, and entered their information using the provided laptop computer. In addition to the online survey, the participant was asked to complete a few tasks in the existing MyLA311 app. Throughout the three tasks, I asked the participant to articulate aloud some of their thoughts to better understand their process and justifications for their navigation. Both these tasks and the rest of the questions in the survey served to measure the user's ease of use.
 
-> :mega: View the full documentation on pilot usability testing [here]()
+> 📣 View the full documentation on pilot usability testing [here]()
 
 ## 🔹 User Research [A3]
 
@@ -98,7 +98,7 @@ The usability testing was guided largely by the resources supplied by Professor 
     
     
     
-> :mega: View the full documentation on user research [here]()
+> 📣 View the full documentation on user research [here]()
 
 ## 🔹 UX Storytelling [A4]
 
@@ -122,7 +122,7 @@ The usability testing was guided largely by the resources supplied by Professor 
 
 ![https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png](https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png)
 
-> :mega: View the full documentation on UX Storytelling [here]()
+> 📣 View the full documentation on UX Storytelling [here]()
 
 ## 🔹 Low-fidelity Prototype
 
@@ -144,7 +144,7 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 2. **Adding more signifiers and significantly more detail to the navigation portion of the app.** 
 3. **Enhancing the filter and sort-by functions for all three portions (Navigation, Services, Resources)**
 
-> :mega: View the full documentation on the low-fidelity prototype [here]()
+> 📣 View the full documentation on the low-fidelity prototype [here]()
 
 ## 🔹 Wireframes & Design System [A6]
 
@@ -188,11 +188,11 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 - Gutter: 20
 - Colour & Opacity: Red (#FF0000) at 10% opacity
 
-> :mega: View the full documentation on the wireframes and design system [here]()
+> 📣 View the full documentation on the wireframes and design system [here]()
 
 ## 🔹 High-fidelity Prototype
 
-> :mega: View the full documentation on the high-fidelity prototype [here]()
+> 📣 View the full documentation on the high-fidelity prototype [here]()
 **The hi-fidelity frames are oriented around the following three tasks**
 1. Choose a route from UCLA/current location to The Grove, with an intermediate stop at Westfield Century City. Sort the order of your destinations for efficiency, and compare the routes (at least, for the first stop). Select a route for each stop, and proceed with your navigation.
 2. Browse all resources on the app, and select one that catches your eye. Save the resource to your list of resources, then export/share that resource. 
@@ -224,7 +224,7 @@ Cognitive Walkthrough: Main takeaways
 
 ## 🔹 Pitch video
 
-> :video_camera: View the pitch video [here](https://drive.google.com/file/d/1NulHzN_zjXuoBKf6hqzYlQ5RC9LQfePW/view?usp=sharing) 
+> 📹 View the pitch video [here](https://drive.google.com/file/d/1NulHzN_zjXuoBKf6hqzYlQ5RC9LQfePW/view?usp=sharing) 
 > UCLA emails only
 
 ## 🔹 Conclusion
