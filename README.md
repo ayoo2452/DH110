@@ -4,23 +4,19 @@
 # MyLA311: Unsolicited Mobile Redesign
 
 
-## Introduction
+## 🔹Introduction
 Just as sustainable communities depend on proper environmental regulation, the daily circumstances of citizens are equally relevant and should be thoroughly accounted for and supported by their respective local governments. In a sprawling, densely populated city like Los Angeles, a need for organized support and communication with the local government is extremely **prevalent**.  As such, my project this quarter is an unsolicited mobile redesign of MyLA311, a mobile app created by the City of Los Angeles as a means to facilitate city service request submissions. This app targets users based in Los Angeles, as the city services that users may request only range over the Los Angeles area. My redesign also draws information from the website 211LA.org, which provides information on economic, domestic, and/or personal resources available to Los Angeles citizens. As a whole, this project reflects the UN's Sustainable Community and Cities goal (SDG #11) as it will serve as a uniting resource to help LA citizens better make use of available resources, including but not limited to city services, public transit, and volunteer organizations.  
 
-## Design Statement
+## 🔹Design Statement
 
-Los Angeles is infamous for its high cost of living and is notoriously difficult to navigate without a car, but this city also has underutilized facilities and resources. This project aims to create a centralized hub of information for Los Angeles residents, allowing easy access to city-provided resources like public transit and city services. Furthermore, this redesign intends to raise awareness **for support systems and/or organizations for various concerns.** In an effort to streamline usability of city-provided resources and support, this project aim to resolve the following issues for Los Angeles residents: 
-
-1. Overwhelming variety of bus and/or train routes
-2. Lack of communication with the local government on non-emergency issues
-3. Needs for extra support in financial, health, domestic, etc. affairs
+Los Angeles is infamous for its high cost of living and is notoriously difficult to navigate without a car, but this city also has underutilized facilities and resources. This project aims to create a centralized hub of information for Los Angeles residents, allowing easy access to city-provided resources like public transit and city services. Furthermore, this redesign intends to raise awareness **for support systems and/or organizations for various concerns.
 
 > *Note that this project limits itself to Los Angeles-specific issues due to our highly dense population and the specialized issues and/or solutions that can arise from our unique location and culture.*
 > 
 
 Having streamlined communication and easy access to resources is incredibly important to foster a sustainable community. Thus, it is important to resolve this issue through my project— a mobile redesign— because such a product utilizes modern advances in technology and communication to improve the quality of life for Los Angeles citizens. 
 
-## Competitor Analysis [A1, A2]
+## 🔹Competitor Analysis [A1, A2]
 
 ### ************************************************Severity score rating scheme************************************************
 
@@ -77,40 +73,20 @@ Having streamlined communication and easy access to resources is incredibly impo
 
 ### Usability Testing - Pilot
 
-The usability testing was guided largely by the resources supplied by Professor Cho. Most questions use the template questions provided in class, with specifications made to tailor the form to my specific app (MyLA311). The participant responded to all survey questions via Google Forms, and entered their information using the provided laptop computer.
-
-The form itself was comprised of the following sections
-
-- Introduction (to the test + what we're doing)
-- Informed consent
-- Background questions (purely on their experience with the app, no personal questions here)
-- Pre-test questions
-- Three tasks (to complete on the MyLA311 app, not within the survey)
-- Post-test questionnaire
-- SUS questions
-- Product satisfaction questions
-- Demographics
-
-Additinoally, participant was asked to accomplish 3 main tasks via the MyLA311 app: 
-
-1. 
-2.  
-3. 
-
-Throughout the three tasks, I asked the participant to articulate aloud some of their thoughts to better understand their process and justifications for their navigation. Both these tasks and the rest of the questions in the survey served to measure the user's ease of use.
+The usability testing was guided largely by the resources supplied by Professor Cho. Most questions use the template questions provided in class, with specifications made to tailor the form to my specific app (MyLA311). The participant responded to all survey questions via Google Forms, and entered their information using the provided laptop computer. In addition to the online survey, the participant was asked to complete a few tasks in the existing MyLA311 app. Throughout the three tasks, I asked the participant to articulate aloud some of their thoughts to better understand their process and justifications for their navigation. Both these tasks and the rest of the questions in the survey served to measure the user's ease of use.
 
 View the pilot usability testing here
 
 > *********************Note: Only UCLA email addresses will be able to access the file.*********************
 > 
 
-## User Research [A3]
+## 🔹 User Research [A3]
 
 5) User research [contextual inquiry, assignment03]:
 
 Summary text and image, link to your assignment folder
 
-## Representative Data Files (Audio Recording + Transcript)
+### Representative Data Files (Audio Recording + Transcript)
 
 | Participant | Audio Recording | Transcript |
 | --- | --- | --- |
@@ -119,16 +95,7 @@ Summary text and image, link to your assignment folder
 
 *Note: The recording on my iPad Pro cut off about 80% of the way through my interview with Participant A, so I had to use the back-up audio recorded on my iPhone XR. The iPhone XR audio contains the Participant A interview, but is missing my introduction to the interview. If you'd like to hear the introduction, please use this link [here](https://drive.google.com/file/d/1oOYaQxQYjmVF7LnTp2HvFQqp0f7avRCk/view?usp=sharing).*
 
-### Affinity Diagram
-
-![https://user-images.githubusercontent.com/101301281/196644165-ff45d498-a3e6-4cf5-beda-4fa4b01ca2d6.png](https://user-images.githubusercontent.com/101301281/196644165-ff45d498-a3e6-4cf5-beda-4fa4b01ca2d6.png)
-
-![https://user-images.githubusercontent.com/101301281/196644536-b1d9871b-43ea-4ce9-837e-7e51424a2b64.png](https://user-images.githubusercontent.com/101301281/196644536-b1d9871b-43ea-4ce9-837e-7e51424a2b64.png)
-
-- Access the Google Jamboard [here](https://jamboard.google.com/d/1WQhKhfmTVwRWVaMMKcfz-ryMCnpLUjUkdUbJ2fs6mtI/edit?usp=sharing)
-- Insights that I found particularly interesting are indicated with a row of astericks
-
-### More interesting insights
+### Interesting insights
 
 - Participants A and B were both extremely reliant upon and trusting of their GPS software, and use it regularly even for short/roughly familiar drives. However, neither wants to have to look up directions to bus. Follow up questions I'd like to look further into:
     - What is too much information to handle for navigation? Both driving with GPS and looking up routes involve following directions from the GPS, but what discriminates one from the other?
@@ -144,7 +111,7 @@ Summary text and image, link to your assignment folder
     > Participant B: "I would say so, yeah. If I had to look up how to take a bus—to like somewhere new— I would probably just end up driving."
     > 
 
-## UX Storytelling [A4]
+## 🔹 UX Storytelling [A4]
 
 6) UX storytelling [persona+scenario, assignment04]
 
@@ -187,7 +154,7 @@ Summary text and image, link to your assignment folder
 
 ![https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png](https://user-images.githubusercontent.com/101301281/197952892-4cd54a3d-f443-4b87-8875-1b7e53f0a2f8.png)
 
-## Low-fidelity Prototype
+## 🔹 Low-fidelity Prototype
 
 7) Low-fidelity prototype (wireflow, assignment05)
 
@@ -209,13 +176,13 @@ For this assignment in particular, I tested focus points #1 and #2, as these are
 2. **Adding more signifiers and significantly more detail to the navigation portion of the app.** Though my user didn't have a large issue with completing Task 1, I definitely noticed them wavering and hesitating when directing their user-flow. I personally think this feature is going to need significant upgrades, which is what I will be working on in the next week as we shift to high-fidelity design. In particular, I want to add more data points for the users to utilize as they compare buses (ex. how busy the bus is at that hour). Additionally, I intend to research more on ways to alleviate the cognitive load on users following a bus navigation. I think that making use of notifications that utilize different modalities to alert the user will be especially helpful. For instance, having a phone vibrate when nearing a stop is helpful to a user who may be overwhelmed with visual stimuli.
 3. **Enhancing the filter and sort-by functions for all three portions (Navigation, Services, Resources)**. This goal isn't spurned by my participant's experience, but accessibility of information comes from the ease of acquiring it, so I hope to better support browsing functionality in all three feature sectors of my proposed app. In particular, I think filtering will be important for Resource browsing, as many people are looking for specific events and/or services for their specific circumstances.
 
-## Wireframes & Design System [A6]
+## 🔹 Wireframes & Design System [A6]
 
 8) Wireframe and graphic design element variation [assignment06]
 
 Summary text and image, link to your assignment folder
 
-### Hi-Fidelity Wireframe
+###  Hi-Fidelity Wireframe: Design System sample
 
 ![https://user-images.githubusercontent.com/101301281/200758434-c0403c4c-8e3a-4783-8322-0dd1faeef672.png](https://user-images.githubusercontent.com/101301281/200758434-c0403c4c-8e3a-4783-8322-0dd1faeef672.png)
 
@@ -269,13 +236,13 @@ Summary text and image, link to your assignment folder
 > I am generally utilizing the layout for column, margin, and gutter guidance. The rows are also in place for guidance, but I am also utilizing Figma's tools for snapping to matching dimensions (e.g. indicating when multiple elements are X pixels apart), as some of my design utilizes more asymmetrical design in the vertical direction, so exact divisions set by rows may not align perfectly with my design assets. I chose this particular layout (10 rows, 4 columns) because I felt the amount of information (i.e. buttons and interactable elements) will vary per page, so I wanted a number of rows that would be easily divisible regardless of the exact quantities of information per screen. As seen above, I also considered utilizing a grid layout/guide, but I felt it to be too distracting because of all the boxes, and also because it's difficult to visualize the gutters (rather, I would have to recall the number of grid spaces that objects should be apart).
 > 
 
-## High-fidelity Prototype
+## 🔹 High-fidelity Prototype
 
 9) High-fidelity prototype (functional/interactive prototype, assignment07)
 
 Summary statement and link to or an embedded prototype
 
-## Cognitive Walkthrough + Revisions
+## 🔹 Cognitive Walkthrough + Revisions
 
 ******************************************Cognitive Walkthrough: Main takeaways******************************************
 
@@ -285,8 +252,8 @@ Summary statement and link to or an embedded prototype
 4. Users would benefit from seeing more information on what to expect after submitting a request (E.g. How long till they get a response? Will they get a confirmation email?)
 5. The app has a professional, clean feel to it. Reviewer B noted that the app is consistent in aesthetic, colouring, and layout.
 
-## Pitch video
+## 🔹 Pitch video
 
 11) Pitch video [update the video after recording your presentation]
 
-## Conclusion
+## 🔹 Conclusion
