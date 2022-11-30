@@ -18,7 +18,7 @@ Having streamlined communication and easy access to resources is incredibly impo
 
 ## 🔹Competitor Analysis [A1, A2]
 
-### ************************************************Severity score rating scheme************************************************
+### Severity score rating scheme
 
 1 = Little to no issues, no pressing pain points that prevent user from using the app
 
@@ -26,7 +26,7 @@ Having streamlined communication and easy access to resources is incredibly impo
 
 3 = Major issues, high priority to fix, majorly affects user flow/journey
 
-### ****************************************************************Heuristic evaluation #1: MyLA311****************************************************************
+### Heuristic evaluation #1: MyLA311
 
 | # | Heuristic | Severity Score |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Having streamlined communication and easy access to resources is incredibly impo
 | 9 | Help Users Recognize, Diagnose, and Recover From Errors | 3 |
 | 10 | Help and Documentation | 3 |
 
-**********************Major pain points in design:**********************
+Major pain points in design:
 
 - Error prevention:
     - The “Create Service Request” userflow does not prompt users to verify input locations and/or addresses. Users are able to enter arbitrary entries to the address input section. 
@@ -50,7 +50,7 @@ Having streamlined communication and easy access to resources is incredibly impo
     - The “City Service Directory” feature has extremely poor organization. This feature is composed of an extensive list of services that are in no apparent order— they aren’t sorted alphabetically, nor by sector, and there are no relevant dates attached to the service titles that might hint at how services are being organized. 
     - No way to filter the services. Users looking to browse through a specific category of services (say, housing assistance) would have to scroll through the entirety of the list.
 
-### **********************************************************Heuristic evaluation #2: 211LA.org**********************************************************
+### Heuristic evaluation #2: 211LA.org
 
 | # | Heuristic | Severity Score |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Having streamlined communication and easy access to resources is incredibly impo
 | 9 | Help Users Recognize, Diagnose, and Recover From Errors | 1.5 |
 | 10 | Help and Documentation | 1.5 |
 
-**********************Major pain points in design:**********************
+Major pain points in design:
 
 - Flexibility and efficiency of use
     - The site could benefit from providing time/availability as an additional filter when browsing resources and/or events. For instance, allowing users to filter results to only include services available at certain hours of the day (ex. working parents who need to narrow down the resources based on when they are available).
@@ -209,7 +209,7 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 
 ## 🔹 Cognitive Walkthrough + Revisions
 
-******************************************Cognitive Walkthrough: Main takeaways******************************************
+Cognitive Walkthrough: Main takeaways
 
 1. The current design seems to rely on subtitles and/or written information. This may be a weak point for users who rely more on visual cues to quickly navigate the page. Try to emphasize key features using more contrasting colours and/or sizing.
 2. Similarly to point #1: Users utilize layout as a clue on what certain features are capable of and/or what certain visual assets afford.
