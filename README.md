@@ -1,24 +1,13 @@
-# DH 110 | Alex Yoo 
-
-# MyLA311: Unsolicited Mobile Redesign
+![00 - Cover](https://user-images.githubusercontent.com/101301281/204706492-ff08d262-b2f7-414e-bb2f-c69febc3f03f.png)
 
 ### by Alex Yoo | Fall 2022, DH 110
+# MyLA311: Unsolicited Mobile Redesign
+
 
 ## Introduction
-
-2) Introduction: a brief information about the project.
-
-What is the project about? The motivation of the project and possible contribution. 
-
-### **Project Description + Possible Contributions**
-
 Just as sustainable communities depend on proper environmental regulation, the daily circumstances of citizens are equally relevant and should be thoroughly accounted for and supported by their respective local governments. In a sprawling, densely populated city like Los Angeles, a need for organized support and communication with the local government is extremely **prevalent**.  As such, my project this quarter is an unsolicited mobile redesign of MyLA311, a mobile app created by the City of Los Angeles as a means to facilitate city service request submissions. This app targets users based in Los Angeles, as the city services that users may request only range over the Los Angeles area. My redesign also draws information from the website 211LA.org, which provides information on economic, domestic, and/or personal resources available to Los Angeles citizens. As a whole, this project reflects the UN's Sustainable Community and Cities goal (SDG #11) as it will serve as a uniting resource to help LA citizens better make use of available resources, including but not limited to city services, public transit, and volunteer organizations.  
 
 ## Design Statement
-
-3) Clear design statement:
-
-What is the issue and Why do you think it is important to resolve that issue by your project?
 
 Los Angeles is infamous for its high cost of living and is notoriously difficult to navigate without a car, but this city also has underutilized facilities and resources. This project aims to create a centralized hub of information for Los Angeles residents, allowing easy access to city-provided resources like public transit and city services. Furthermore, this redesign intends to raise awareness **for support systems and/or organizations for various concerns.** In an effort to streamline usability of city-provided resources and support, this project aim to resolve the following issues for Los Angeles residents: 
 
