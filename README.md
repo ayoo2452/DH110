@@ -137,9 +137,11 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 2. A cohesive, easily browse-able directory of resources available to the community. This should support efficient and relevant filtering, as well as ways to easily compile and/or save resources of high interest to the user.
 3. Re-organize and address error verification issues with the Submit a Request function on MyLA311 app. (This particular features stems from my heuristic evaluation of MyLA311's app, and— more recently-- a deeper evaluation at MyLA311's website).
 
-For this assignment in particular, I tested focus points #1 and #2, as these are the issues that align with the scenarios presented in [Assignment 4: Personas and Scenarios](https://github.com/ayoo2452/DH110/tree/main/Assignment%204). However, note the rough wireframes for Service Requests in the Wireframes and/or Wireflow sections below
+### Lo-Fi Wireframes
+![22F DH 110- Wireframes only](https://user-images.githubusercontent.com/101301281/204714684-a4e8382b-52b0-4b2d-ac1e-4462dadec020.png)
+### Lo-Fi Wireflow
+![A05 Wireflow](https://user-images.githubusercontent.com/101301281/204715082-f10fccc0-e8e4-4b02-baf7-27021c210b1d.jpeg)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53c5d91e-d384-4649-8843-da7760af2773/Untitled.png)
 
 ### Main areas to improve the prototype
 
@@ -160,6 +162,7 @@ Summary text and image, link to your assignment folder
 ## 🔹 Design System + Summary
 
 ### Typography
+
 
 - **Title:** Manrope Extra Bold, 34 pt, 1% Letter Spacing, 1.1x line height
 - **Subtitle:** Manrope Medium , 21 pt, 1% Letter Spacing, 1.1x line height
