@@ -9,7 +9,7 @@ Just as sustainable communities depend on proper environmental regulation, the d
 
 ## <a name="designStatement">🔹Design Statement</a>
 
-Los Angeles is infamous for its high cost of living and is notoriously difficult to navigate without a car, but this city also has underutilized facilities and resources. This project aims to create a centralized hub of information for Los Angeles residents, allowing easy access to city-provided resources like public transit and city services. Furthermore, this redesign intends to raise awareness **for support systems and/or organizations for various concerns.
+Los Angeles is infamous for its high cost of living and is notoriously difficult to navigate without a car, but this city also has underutilized facilities and resources. This project aims to create a centralized hub of information for Los Angeles residents, allowing easy access to city-provided resources like public transit and city services. Furthermore, this redesign intends to inform citizens of the support available through financial, domestic, and public health resources provided by the city and/or volunteer organizations.
 
 Having streamlined communication and easy access to resources is incredibly important to foster a sustainable community. Thus, it is important to resolve this issue through my project— a mobile redesign— because such a product utilizes modern advances in technology and communication to improve the quality of life for Los Angeles citizens. 
 
@@ -128,9 +128,9 @@ The usability testing was guided largely by the resources supplied by Professor 
 
 Upon imagining realistic usage scenarios for both users (information on which can be found in [Assignment 4: Personas and Scenarios](https://github.com/ayoo2452/DH110/tree/main/Assignment%204)), I identified three features of interest for the redesign of MyLA311:
 
-1. A route-finder with information specific and tailored to LA Public Transit (not just the Metro, but including other public transport services that serve the greater Los Angeles County area). This navigation should ease cognitive load, and provide enough information on the different lines/systems so that first time users understand their options sufficiently.
-2. A cohesive, easily browse-able directory of resources available to the community. This should support efficient and relevant filtering, as well as ways to easily compile and/or save resources of high interest to the user.
-3. Re-organize and address error verification issues with the Submit a Request function on MyLA311 app. (This particular features stems from my heuristic evaluation of MyLA311's app, and— more recently-- a deeper evaluation at MyLA311's website).
+1. A route-finder with information specific and tailored to LA Public Transit (not just the Metro, but including other public transport services that serve the greater Los Angeles County area). 
+2. A cohesive, easily browse-able directory of resources available to the community. 
+3. Submit a city service request. 
 
 ### Lo-Fi Wireframes
 ![22F DH 110- Wireframes only](https://user-images.githubusercontent.com/101301281/204714684-a4e8382b-52b0-4b2d-ac1e-4462dadec020.png)
@@ -193,6 +193,19 @@ Upon imagining realistic usage scenarios for both users (information on which ca
 ## 🔹 High-fidelity Prototype
 
 > :mega: View the full documentation on the high-fidelity prototype [here]()
+**The hi-fidelity frames are oriented around the following three tasks**
+1. Choose a route from UCLA/current location to The Grove, with an intermediate stop at Westfield Century City. Sort the order of your destinations for efficiency, and compare the routes (at least, for the first stop). Select a route for each stop, and proceed with your navigation.
+2. Browse all resources on the app, and select one that catches your eye. Save the resource to your list of resources, then export/share that resource. 
+3. Submit a city service request by following the guided procedure. Review and receive confirmation of the submitted request.
+
+![High Fidelity Frames](https://user-images.githubusercontent.com/101301281/204730606-62d3e3be-c71e-441c-b701-0d9c9621d980.png)
+![Task 1](https://user-images.githubusercontent.com/101301281/204730618-55efd2b2-1d6a-4bb7-b768-05cf8d298820.png)
+![Task 2](https://user-images.githubusercontent.com/101301281/204730632-18ed8135-e7f7-4a2c-a5af-8932021fabd1.png)
+![Task 3](https://user-images.githubusercontent.com/101301281/204730635-3872892c-bcae-43f5-9b51-2c56bd137bf0.png)
+
+### Link to Figma prototype [here](https://www.figma.com/proto/tKZZgP8erT8ucS9jFNoi9a/22F-DH-110-(Master-Copy)?page-id=196%3A528&node-id=305%3A488&viewport=65%2C609%2C0.09&scaling=scale-down&starting-point-node-id=305%3A488&show-proto-sidebar=1)
+
+
 
 ## 🔹 Cognitive Walkthrough + Revisions
 
